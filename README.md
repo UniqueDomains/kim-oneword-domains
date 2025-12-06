@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.KIM one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.kim      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.kim      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.kim  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.kim      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.kim  | available | 58       | 7%     | 9      |           |         |         |
