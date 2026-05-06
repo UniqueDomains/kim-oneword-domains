@@ -1,10 +1,10 @@
-# Available .KIM One-Word Domains (12,297)
+# Available .KIM One-Word Domains (12,305)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C297%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C305%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kim one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,297 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,305 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,297 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,305 domains · **Median ask:** $32.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/kim`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| spectra.kim       | available | $14.99    | —             | 62             | 34     | 7      | name.com     |
-| agents.kim        | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC |
-| farmers.kim       | premium   | $1,400    | $1,400        | 54             | 59     | 7      | namecheap    |
-| payments.kim      | available | $14.99    | —             | 58             | 33     | 8      | name.com     |
-| traders.kim       | premium   | $625      | —             | 60             | 26     | 7      | name.com     |
-| partners.kim      | available | $14.99    | —             | 61             | 32     | 8      | name.com     |
-| doctors.kim       | premium   | $1,250    | —             | 56             | 26     | 7      | name.com     |
-| trends.kim        | available | $14.99    | —             | 60             | 32     | 6      | name.com     |
-| investors.kim     | premium   | $1,400    | $1,400        | 60             | 23     | 9      | namecheap    |
-| videos.kim        | available | $14.99    | —             | 52             | 30     | 6      | name.com     |
-| apartments.kim    | premium   | $1,107    | $1,107        | 60             | 21     | 10     | namesilo     |
-| SanDiego.kim      | available | $14.99    | —             | 74             | 29     | 9      | name.com     |
-| vacations.kim     | premium   | $1,107    | $1,107        | 56             | 19     | 9      | namesilo     |
-| heroes.kim        | available | $14.99    | —             | 68             | 29     | 6      | name.com     |
-| plumbers.kim      | premium   | $242      | $242          | 50             | 14     | 8      | namesilo     |
-| gems.kim          | available | $14.99    | —             | 70             | 28     | 4      | name.com     |
-| tycoons.kim       | premium   | $242      | $242          | 55             | 6      | 7      | namesilo     |
-| forms.kim         | available | $14.99    | —             | 54             | 28     | 5      | name.com     |
-| practitioners.kim | premium   | $242      | $242          | 48             | 5      | 13     | namesilo     |
-| gods.kim          | available | $14.99    | —             | 72             | 27     | 4      | name.com     |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| tips.kim     | available | $14.99    | —             | 80             | 26     | 4      | name.com     |
+| finals.kim   | available | $14.99    | —             | 80             | 7      | 6      | name.com     |
+| jewels.kim   | available | $14.99    | —             | 80             | 15     | 6      | name.com     |
+| geton.kim    | available | $14.99    | —             | 82             | 10     | 6      | name.com     |
+| useit.kim    | available | $14.99    | —             | 94             | 7      | 6      | name.com     |
+| dogsit.kim   | available | $14.99    | —             | 96             | 2      | 6      | name.com     |
+| edamame.kim  | available | $14.99    | —             | 80             | 9      | 7      | name.com     |
+| playin.kim   | available | $14.99    | —             | 80             | 10     | 7      | name.com     |
+| playon.kim   | available | $14.99    | —             | 80             | 14     | 7      | name.com     |
+| toneup.kim   | available | $14.99    | —             | 80             | 5      | 7      | name.com     |
+| hangon.kim   | available | $14.99    | —             | 82             | 6      | 7      | name.com     |
+| pierogi.kim  | available | $14.99    | —             | 82             | 7      | 7      | name.com     |
+| spectra.kim  | available | $14.99    | —             | 62             | 34     | 7      | name.com     |
+| agents.kim   | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC |
+| farmers.kim  | premium   | $1,400    | $1,400        | 54             | 59     | 7      | namecheap    |
+| payments.kim | available | $14.99    | —             | 58             | 33     | 8      | name.com     |
+| traders.kim  | premium   | $625      | —             | 60             | 26     | 7      | name.com     |
+| partners.kim | available | $14.99    | —             | 61             | 32     | 8      | name.com     |
+| doctors.kim  | premium   | $1,250    | —             | 56             | 26     | 7      | name.com     |
+| trends.kim   | available | $14.99    | —             | 60             | 32     | 6      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,297 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,305 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up entirely of one-word .kim domains. The names range from broad dictionary terms such as tips.kim, homes.kim, and finals.kim to more niche or audience-led terms like girls.kim, ladies.kim, and jewels.kim. For founders, the key question is whether a .kim ending helps or complicates recall, trust, and word-of-mouth. For investors, the main issue is likely end-user depth within a less mainstream extension. With a median ask of 32.18, these domains can look inexpensive upfront, but the right comparison is not just ask price. It is also renewal cost, clarity, and how naturally the word fits .kim.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the word feels natural with a .kim ending
+- Use renewal cost, not ask alone, to judge value
+- Prefer clear words with broad end-user relevance
+- Screen for trademark conflict before committing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
