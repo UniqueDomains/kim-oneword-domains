@@ -641,6 +641,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 348926db-04d9-4229-a2dd-3eea5a12d646,SaintNicholas.kim,available,32.98,,64,4,14,namecheap,,
 34933e1e-3c42-47db-a39d-23b0d4ae8bfc,childclass.kim,available,14.99,,50,1,11,name.com,,
 3496f206-6523-4ef7-9333-20dac4665acd,letsomethingride.kim,available,14.99,,67,1,18,name.com,,
+34a14bd8-ba9d-48c4-8b14-82c52e7fca4e,school.kim,premium,,,84,38,6,,,
 34b5e0b3-df51-4a63-851b-9e32612176ea,goodcheer.kim,available,14.99,,60,2,10,name.com,,
 34e090a6-be9a-4c96-ae08-7a8dbc5aefd8,segregation.kim,available,14.99,,62,2,11,name.com,,
 34f98e14-cc2f-42e4-b6bd-4e53dfcdab8f,functions.kim,available,14.99,,54,12,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 544a55b8-fe70-485e-87ab-6a3ef08abc48,owns.kim,available,14.99,,56,8,4,name.com,,
 545144ef-3e92-4710-bfc1-1b99fb4305e2,thanksaton.kim,available,14.99,,62,1,12,name.com,,
 545700cd-b41a-463e-99df-12fc70d13ced,gives.kim,available,14.99,,52,12,5,name.com,,
-546a7606-9fc6-418b-a658-9973efce9e88,monkeys.kim,available,14.99,,56,13,7,name.com,,
