@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kim one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,310 domains · **Median ask:** $32.18 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/kim`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | agents.kim   | resell    | —         | —             | 56             | 50     | 6      | Sav.com, LLC |
 | farmers.kim  | premium   | $1,400    | $1,400        | 54             | 59     | 7      | namecheap    |
 | payments.kim | available | $14.99    | —             | 58             | 33     | 8      | name.com     |
-| traders.kim  | premium   | $625      | —             | 60             | 26     | 7      | name.com     |
-| partners.kim | available | $14.99    | —             | 61             | 32     | 8      | name.com     |
 | doctors.kim  | premium   | $1,250    | —             | 56             | 26     | 7      | name.com     |
+| trends.kim   | available | $14.99    | —             | 60             | 32     | 6      | name.com     |
+| traders.kim  | premium   | $625      | —             | 60             | 25     | 7      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
