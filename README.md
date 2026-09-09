@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .kim one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,421 domains · **Median ask:** $19.15 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/kim`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | one.kim   | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc                      |
-| jesus.kim | available | $14.99    | —             | high           | medium | 5      | name.com                                     |
 | ada.kim   | available | $14.99    | —             | medium         | medium | 3      | name.com                                     |
 | get.kim   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | org.kim   | premium   | $2,500    | —             | medium         | medium | 3      | name.com                                     |
@@ -84,6 +83,7 @@ print(df.head())
 | sexy.kim  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
 | actor.kim | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                     |
 | eat.kim   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| wind.kim  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
