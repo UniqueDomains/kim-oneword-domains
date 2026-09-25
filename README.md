@@ -1,10 +1,10 @@
-# Available .KIM One-Word Domains (31,444)
+# Available .KIM One-Word Domains (32,387)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C444%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C387%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .kim one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,444 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,387 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,444 domains · **Median ask:** $16.12 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 32,387 domains · **Median ask:** $15.94 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/kim`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ada.kim     | available | $14.99    | —             | medium         | medium | 3      | name.com                                     |
-| one.kim     | resell    | —         | —             | medium         | low    | 3      | Unstoppable Domains Inc                      |
-| org.kim     | premium   | $2,500    | —             | medium         | medium | 3      | name.com                                     |
-| all.kim     | available | $12.99    | $23.49        | medium         | low    | 3      | namesilo                                     |
-| top.kim     | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
-| know.kim    | premium   | $14.99    | —             | high           | low    | 4      | name.com                                     |
-| ass.kim     | available | $5.98     | $32.98        | low            | low    | 3      | namecheap                                    |
-| code.kim    | resell    | —         | —             | low            | low    | 4      | Unstoppable Domains Inc                      |
-| moon.kim    | premium   | $625      | —             | high           | medium | 4      | name.com                                     |
-| big.kim     | available | $5.98     | $32.98        | medium         | low    | 3      | namecheap                                    |
-| lamp.kim    | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
-| ring.kim    | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                     |
-| boy.kim     | available | $14.99    | —             | medium         | low    | 3      | name.com                                     |
-| sexy.kim    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                             |
-| ruby.kim    | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                     |
-| clx.kim     | available | $5.98     | $32.98        | low            | low    | 3      | namecheap                                    |
-| wind.kim    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
-| actor.kim   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                     |
-| cry.kim     | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
-| network.kim | resell    | —         | —             | low            | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| ada.kim   | available | $14.99    | —             | high           | medium | 3      | name.com                                     |
+| bit.kim   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| gun.kim   | premium   | $242      | $242          | high           | low    | 3      | namesilo                                     |
+| are.kim   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| job.kim   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                  |
+| gym.kim   | premium   | $1,250    | —             | high           | low    | 3      | name.com                                     |
+| ass.kim   | available | $5.98     | $32.98        | high           | low    | 3      | namecheap                                    |
+| top.kim   | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
+| org.kim   | premium   | $2,500    | —             | high           | medium | 3      | name.com                                     |
+| boy.kim   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| book.kim  | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc                      |
+| adam.kim  | premium   | $1,107    | $1,107        | high           | high   | 4      | namesilo                                     |
+| clx.kim   | available | $5.98     | $32.98        | high           | low    | 3      | namecheap                                    |
+| lamp.kim  | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                 |
+| know.kim  | premium   | $14.99    | —             | high           | low    | 4      | name.com                                     |
+| cry.kim   | available | $14.99    | —             | high           | low    | 3      | name.com                                     |
+| wind.kim  | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                  |
+| moon.kim  | premium   | $625      | —             | high           | medium | 4      | name.com                                     |
+| cxl.kim   | available | $5.98     | $32.98        | high           | low    | 3      | namecheap                                    |
+| chain.kim | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,444 live domains                        |
+| 1,000-row public sample | 32,387 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .KIM One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
