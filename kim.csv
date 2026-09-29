@@ -1,31 +1,38 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 8f046197-32fa-47fe-b854-fccb912523c0,piglet.kim,available,12.99,23.49,high,low,6,namesilo,,,19/09/2026 22:30
+e52a649b-198f-4766-bde0-5c8b86010084,gilman.kim,available,12,,medium,low,6,unstoppable,,,28/09/2026 09:22
 350e7277-c781-4443-8276-d7bf54df8a0a,unalarming.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/09/2026 00:14
 84806440-1db0-4ae2-977a-7ecedf1e6ad6,lallygag.kim,available,5.98,32.98,medium,low,8,namecheap,,,11/09/2026 08:33
 56c20f28-2db8-42bd-8445-f0722eb5dc4d,sinners.kim,available,14.99,,medium,low,7,name.com,,,
 99adabd3-ae71-4848-8b35-055ff099d4ff,appointee.kim,available,5.98,32.98,medium,low,9,namecheap,,,19/09/2026 21:58
 e39f03a9-635f-438e-9e0c-982c2d077f12,lawsuit.kim,available,5.38,18.83,high,low,7,spaceship,,,28/09/2026 05:25
 b0617e9c-b69a-402c-ba97-45444d1b3a41,fourth.kim,available,5.98,32.98,high,low,6,namecheap,,,
+8b1140bb-fd22-4946-bace-46511cdab88c,nrl.kim,available,8.24,19.05,medium,low,3,porkbun,,,28/09/2026 10:31
+f87d7eb9-6562-417a-84a0-d4eb7790fd43,ingersoll.kim,available,12.99,23.49,medium,low,9,namesilo,,,29/09/2026 04:29
 e7d50374-6aa2-4da1-89a0-0110d39dc1a3,dictator.kim,available,5.98,32.98,medium,low,8,namecheap,,,07/08/2026 19:17
 347b6d92-b2aa-4e08-b647-9ee256b2179a,inhale.kim,available,14.99,,high,low,6,name.com,,,
 9a844a9b-f372-4455-8f22-10b8a2f1f488,lopsided.kim,available,5.98,32.98,medium,low,8,namecheap,,,07/08/2026 03:41
 11be188d-b4b5-4db8-b7c9-e8d072b7dc45,livelong.kim,available,5.98,32.98,high,low,8,namecheap,,,24/08/2026 07:57
 e9b180a2-a525-4491-9ad6-02f3a1b4ca60,become.kim,available,14.99,,high,low,6,name.com,,,
-86e8b767-e5c4-423b-bf1b-abccef436765,spaces.kim,available,12.99,23.49,high,low,6,namesilo,,,24/09/2026 15:02
+86e8b767-e5c4-423b-bf1b-abccef436765,spaces.kim,available,8.24,19.11,medium,low,6,dynadot,,,28/09/2026 17:55
 34611c57-67b1-4546-8b57-fd704ed67f88,solidified.kim,available,5.98,32.98,medium,low,10,namecheap,,,10/09/2026 13:41
 75d4d2e2-4d91-4994-b07e-fc187f1ab265,attendee.kim,available,12.99,23.49,high,low,8,namesilo,,,21/09/2026 01:26
 49fe6c7f-ccd9-49ec-b52f-8cbfc7c99df7,hassle.kim,available,12.99,23.49,high,low,6,namesilo,,,27/09/2026 16:35
 a71931b2-0cbe-4e27-8214-6046960dfcb9,salzburg.kim,available,18.2,18.2,high,low,8,cloudflare,,,28/09/2026 03:02
+ab809e3f-8066-46ba-92e7-670225fce145,stimulating.kim,available,8.24,19.05,medium,low,11,porkbun,,,28/09/2026 21:23
 b7e18e92-ee83-4a82-a863-e32e020ae389,expectable.kim,available,5.98,32.98,medium,low,10,namecheap,,,17/08/2026 18:02
+6c1ee958-ee53-4a23-a8e0-0ad069bac50e,rowley.kim,available,12.99,23.49,medium,low,6,namesilo,,,28/09/2026 12:08
 04bbd133-f9ec-4d5a-8937-01753cea9a79,lachrymose.kim,available,5.98,32.98,medium,low,10,namecheap,,,14/08/2026 15:34
 8c65f4d3-590e-45f2-8612-303464792c17,enter.kim,available,14.99,,high,low,5,name.com,,,
 eb8a4b23-4e44-43ce-9426-b33b5c5865c7,aqaba.kim,available,12.99,23.49,medium,low,5,namesilo,,,17/09/2026 23:49
 bab05205-a626-4f32-9f53-8af3e4b65e13,truelove.kim,available,5.98,32.98,medium,low,8,namecheap,,,10/09/2026 19:36
 768a34c5-2e67-4b2b-bd53-5eabfb2b117a,autogyro.kim,available,12.99,23.49,medium,low,8,namesilo,,,21/09/2026 06:23
 ff56a2ab-5c88-449c-946f-0412417b864a,schismatic.kim,available,5.98,32.98,medium,low,10,namecheap,,,09/09/2026 23:07
+11498ced-e646-4c27-8d46-553bf301b62c,martinez.kim,available,12.99,23.49,high,low,8,namesilo,,,28/09/2026 12:21
 0156d1c6-d8ee-4862-93ed-97d01e359072,captured.kim,available,12.99,23.49,medium,low,8,namesilo,,,27/09/2026 02:07
 bfc6cc5e-5b54-4df3-b92a-52d13b883db9,neuronic.kim,available,5.98,32.98,medium,low,8,namecheap,,,03/09/2026 16:21
 a1b54089-64cc-4712-b6dc-604364dd9797,salmagundi.kim,available,5.98,32.98,medium,low,10,namecheap,,,25/08/2026 08:22
+50b0fa41-38c3-42c2-98a2-fdf234606f41,ivanov.kim,available,5.38,18.83,medium,low,6,spaceship,,,29/09/2026 01:22
 da4961bd-a861-45ce-a05f-de84d9e1160a,eviscerate.kim,available,5.98,32.98,medium,low,10,namecheap,,,17/08/2026 15:10
 3950c02e-6b86-4fd8-ba7f-2c7985f0b45c,pushchair.kim,available,12.99,23.49,high,low,9,namesilo,,,21/09/2026 13:21
 285d5815-0ae2-4de1-8916-16b203d45407,chairman.kim,available,14.99,,high,low,8,name.com,,,
@@ -35,6 +42,7 @@ f5aa1a5d-6e9c-4d86-9978-056015b2439b,cecal.kim,available,5.98,32.98,medium,low,5
 f2f47db5-c9ca-4e8a-a505-6d27349c353d,cruz.kim,available,12.99,23.49,high,low,4,namesilo,,,25/09/2026 11:52
 966e6a62-bd2c-4606-8616-1c4ec36f87cd,roommates.kim,available,12.99,23.49,medium,low,9,namesilo,,,21/09/2026 02:59
 ed9850a0-f437-4f39-b354-7039b328a464,azygos.kim,available,5.98,32.98,medium,low,6,namecheap,,,08/08/2026 03:32
+2d54527c-1b91-486d-a2ac-0ffb04b91211,courthouse.kim,available,5.38,18.83,medium,low,10,spaceship,,,28/09/2026 09:28
 85e2f775-8ee0-488f-aa48-b8f87fe071ba,acerose.kim,available,5.98,32.98,medium,low,7,namecheap,,,
 fe2e0488-9ceb-4450-9e48-a2e49697dc8a,goonie.kim,available,12.99,23.49,medium,low,6,namesilo,,,23/09/2026 23:45
 7d6ee723-3dea-4045-b98a-f7ff4f325048,fledgeling.kim,available,5.98,32.98,medium,low,10,namecheap,,,18/08/2026 07:32
@@ -44,7 +52,8 @@ a1cf85b0-7957-45d2-b815-b8242020b870,laboured.kim,available,5.98,32.98,medium,lo
 f7314d18-67a2-440e-af97-99a0f0abe26f,barracuda.kim,available,12.99,23.49,high,low,9,namesilo,,,22/09/2026 07:54
 75eb36bf-555e-44cf-b599-ac4b6e93ebd5,cords.kim,available,5.98,32.98,medium,low,5,namecheap,,,24/09/2026 18:14
 ea736728-7fe2-4db0-81f6-67bd52c73245,exalt.kim,available,5.98,32.98,high,low,5,namecheap,,,
-32b09c0e-ced2-4ded-9bec-8116ada4eb11,however.kim,available,14.99,,high,low,7,name.com,,,
+32b09c0e-ced2-4ded-9bec-8116ada4eb11,however.kim,available,8.24,19.05,medium,low,7,porkbun,,,28/09/2026 11:49
+260a9143-1c04-4a11-909f-e068dd27ae9d,spices.kim,available,8.24,19.11,medium,low,6,dynadot,,,28/09/2026 23:41
 b6e0e1fb-93a4-4d8a-9a66-445d47c3c8e9,clientele.kim,available,12.99,23.49,high,low,9,namesilo,,,24/09/2026 15:37
 fdb77a3f-0703-460f-881b-42d81408616c,speaker.kim,available,14.99,,high,low,7,name.com,,,
 daa791e2-2e58-40f5-a599-31164381ac2e,comforter.kim,available,12.99,23.49,medium,low,9,namesilo,,,18/09/2026 10:03
@@ -54,10 +63,11 @@ daa791e2-2e58-40f5-a599-31164381ac2e,comforter.kim,available,12.99,23.49,medium,
 3b629547-ef2f-4ee4-b12e-94f2bd148bcb,unaddicted.kim,available,5.98,32.98,medium,low,10,namecheap,,,11/09/2026 23:50
 fb64edb0-8f66-49bf-a632-1e8ca69eda53,goliath.kim,available,12.99,23.49,high,low,7,namesilo,,,23/09/2026 03:22
 83b7783d-2d5d-41b1-bbd3-17cb31842fe5,things.kim,available,5.38,18.83,high,low,6,spaceship,,,28/09/2026 05:47
+0c9894d0-eecb-492e-ab9e-2cbba55da9a0,vase.kim,available,12.99,23.49,high,low,4,namesilo,,,28/09/2026 11:03
 9112f3f1-04f3-40ee-8384-90e2f85e6c1d,palladian.kim,available,5.98,32.98,medium,low,9,namecheap,,,04/09/2026 23:44
 b3b8b033-dac2-4bc2-8f48-821d246024c4,villainous.kim,available,5.98,32.98,medium,low,10,namecheap,,,03/09/2026 14:59
 da75b426-aa22-4825-9c3d-4d563d8265d7,malicious.kim,available,5.98,32.98,medium,low,9,namecheap,,,24/08/2026 14:02
-d151a4e7-d81d-462c-bf84-5d231b585ca9,pharmacy.kim,available,14.99,,high,low,8,name.com,,,
+d151a4e7-d81d-462c-bf84-5d231b585ca9,pharmacy.kim,available,12,,high,low,8,unstoppable,,,28/09/2026 21:46
 240cbfca-ca74-4b46-a10c-d97c22b00391,hani.kim,available,12.99,23.49,high,low,4,namesilo,,,17/09/2026 23:54
 6be2732e-94e2-419a-8e00-2a297d88c74a,drop.kim,available,12.99,23.49,high,medium,4,namesilo,,,24/09/2026 05:11
 198fc548-14b2-49dd-aabf-00dbdeb8a5b9,uttered.kim,available,5.98,32.98,medium,low,7,namecheap,,,17/08/2026 18:44
@@ -65,17 +75,17 @@ d151a4e7-d81d-462c-bf84-5d231b585ca9,pharmacy.kim,available,14.99,,high,low,8,na
 0b0d8247-d3e7-4837-a1d7-19570b45669b,yearling.kim,available,12.99,23.49,high,low,8,namesilo,,,22/09/2026 00:38
 d40dbb23-7887-4a8f-bd15-5b138b6569f1,threepenny.kim,available,5.98,32.98,medium,low,10,namecheap,,,10/09/2026 09:08
 8f834ae0-ef9b-4d6c-958b-af90cb63ad24,feeling.kim,available,14.99,,high,low,7,name.com,,,
-37362e3e-e7af-4fe8-a200-b238c87b781c,adventure.kim,available,14.99,,high,medium,9,name.com,,,
+37362e3e-e7af-4fe8-a200-b238c87b781c,adventure.kim,available,18.2,18.2,high,medium,9,cloudflare,,,28/09/2026 18:58
 3a2c13b5-75da-46fd-80c5-4be58961d310,gran.kim,available,14.99,,high,low,4,name.com,,,
 39db681d-ee5d-4f84-b8fc-78e59090e356,autologous.kim,available,5.98,32.98,medium,low,10,namecheap,,,07/08/2026 20:37
 1de40bcc-8a06-4c98-8360-dd429ae350c5,sincere.kim,available,12.99,23.49,high,low,7,namesilo,,,24/09/2026 13:03
 2ab035d9-9286-4fab-94f2-e0295ce8caf6,dilute.kim,available,5.98,32.98,high,low,6,namecheap,,,
 329852c4-49e8-49e7-978c-f5567069e9ad,unintended.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/09/2026 13:30
 1afd103d-cc4b-4454-8996-b9bf34a5b30d,lashing.kim,available,5.98,32.98,medium,low,7,namecheap,,,22/08/2026 20:10
-a12f1bac-5a55-4159-a30b-b3ced2daa7d9,axis.kim,available,14.99,,high,medium,4,name.com,,,
 3276e5be-8851-47b1-be27-a623a88cfa08,tears.kim,available,5.98,32.98,high,low,5,namecheap,,,24/09/2026 02:29
 68055ce7-d83c-44a4-b9d7-8464ba859640,rollercoaster.kim,available,14.99,,medium,low,14,name.com,,,
 18646ab6-43c2-4bb7-990a-102ec3dbb894,theban.kim,available,5.98,32.98,medium,low,6,namecheap,,,11/09/2026 12:35
+71858a84-5644-468d-b23c-92aa6336efe4,candidates.kim,available,8.24,19.05,low,low,10,porkbun,,,28/09/2026 17:58
 18c02b9e-1a52-48b0-bd8e-db33b802db16,syllabic.kim,available,5.98,32.98,high,low,8,namecheap,,,11/09/2026 05:58
 7bdf14cd-d685-4b2d-834c-52befef9f933,somalian.kim,available,5.98,32.98,medium,low,8,namecheap,,,10/09/2026 13:56
 27d54a2e-d614-43a3-b928-b30b110e7c0c,ripped.kim,available,12.99,23.49,high,low,6,namesilo,,,27/09/2026 17:41
@@ -87,6 +97,7 @@ c81515c8-0912-4f1d-8b7d-f04b8b7a1d27,arquebus.kim,available,5.98,32.98,medium,lo
 f05c878f-d53d-49c3-b4fb-0bbb4ca5310f,apneic.kim,available,5.98,32.98,medium,low,6,namecheap,,,06/08/2026 00:40
 bca12442-4210-42fa-bd0e-790643d06c52,arrangements.kim,available,12.99,23.49,medium,low,12,namesilo,,,27/09/2026 10:40
 228410d8-dd4b-4368-9e7f-c71e3646e848,clogged.kim,available,5.98,32.98,medium,low,7,namecheap,,,12/08/2026 06:41
+15c627e5-0f93-40df-9710-56fedcc5a05d,encountered.kim,available,18.2,18.2,low,low,11,cloudflare,,,28/09/2026 23:17
 58f79e0d-088d-4ec9-9e80-bec8c5000569,anew.kim,available,5.98,32.98,high,low,4,namecheap,,,13/09/2026 18:03
 0fd33130-d595-4719-9d4e-de1ef08d688c,rudolf.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 15:40
 001119dc-b664-4b1f-a8ba-3468ab95f832,workaday.kim,available,5.98,32.98,medium,low,8,namecheap,,,17/08/2026 14:58
@@ -94,20 +105,24 @@ ad4b06db-9c6a-4375-ac60-98ee37d679c2,lose.kim,available,14.99,,medium,low,4,name
 fc8d9122-d72e-4281-927f-2d0978794131,allargando.kim,available,5.98,32.98,medium,low,10,namecheap,,,
 b62b3529-f9ce-4d1e-b70c-9199b34f8f4d,vexer.kim,available,5.98,32.98,medium,low,5,namecheap,,,19/09/2026 10:52
 75f2acac-4e53-4088-a97f-fd563a48ff09,struggling.kim,available,5.98,32.98,medium,low,10,namecheap,,,10/09/2026 22:52
+492cf8b6-32e9-416e-be8f-e176665ded01,grapes.kim,available,5.38,18.83,high,low,6,spaceship,,,28/09/2026 12:35
 1458593d-3326-49c7-94f7-a3e178b1189b,parsimony.kim,available,5.98,32.98,medium,low,9,namecheap,,,08/09/2026 14:39
 4cec5f47-afa9-49c7-918b-c3f49ad88532,suborbital.kim,available,5.98,32.98,medium,low,10,namecheap,,,11/09/2026 00:34
 47497ed6-e495-4b44-80e5-395029375210,bauxite.kim,available,12.99,23.49,medium,low,7,namesilo,,,22/09/2026 16:42
 cf4089c4-8419-449e-bf17-66211885c884,supplicant.kim,available,5.98,32.98,medium,low,10,namecheap,,,11/09/2026 03:28
 38e4f892-9c18-48d9-b0ec-4e22d8bf0e0a,hoarfrost.kim,available,5.98,32.98,medium,low,9,namecheap,,,21/08/2026 10:07
 c17be27c-5b8b-4c1d-a92e-62fc23b1633b,aspirator.kim,available,5.98,32.98,medium,low,9,namecheap,,,20/09/2026 15:23
+f733ede9-58c1-4ad9-872c-34a30c817641,drawings.kim,available,18.2,18.2,low,low,8,cloudflare,,,28/09/2026 13:09
 26cf57a6-a71f-4cc7-aa57-c5322b5898e8,assumption.kim,available,12.99,23.49,medium,low,10,namesilo,,,20/09/2026 16:39
+63526a39-1717-46ef-928e-cc0f17cf4ed5,spelled.kim,available,12,,low,low,7,unstoppable,,,28/09/2026 16:58
 5ed00359-84a1-46b8-a923-b015cafa53f9,princely.kim,available,5.98,32.98,high,low,8,namecheap,,,14/08/2026 01:00
 4fbdfd0f-0ee6-44d2-b8a3-1c9c499c7af7,excessive.kim,available,5.98,32.98,medium,low,9,namecheap,,,17/08/2026 16:15
-4def329c-a3c2-4d8c-9eec-c9202659e046,valid.kim,available,14.99,,high,low,5,name.com,,,
+4def329c-a3c2-4d8c-9eec-c9202659e046,valid.kim,available,5.98,32.98,high,low,5,namecheap,,,28/09/2026 10:05
 24a11aa3-ff6e-46b0-953d-9e563bb23baf,carrel.kim,available,12.99,23.49,medium,low,6,namesilo,,,18/09/2026 06:05
 7b812c93-94e7-4150-9c97-0e3a404fb030,acarus.kim,available,5.98,32.98,medium,low,6,namecheap,,,16/09/2026 21:38
 cfe50564-e76c-4999-866a-3980dd769ebc,drunk.kim,available,5.98,32.98,high,low,5,namecheap,,,14/08/2026 20:17
 560e1d6b-f107-48cc-bc5c-dd38550fb0cf,copy.kim,available,14.99,,high,low,4,name.com,,,
+628bca82-b5bc-4140-bc38-08c6791afd1b,policemen.kim,premium,68.51,68.51,medium,low,9,spaceship,,,28/09/2026 18:03
 4966ca65-b7c7-44bc-bb34-cf20503b5527,unary.kim,available,5.98,32.98,high,low,5,namecheap,,,12/09/2026 01:06
 a30f5f16-f8ea-4d5a-8e71-b81b1dad920a,lyrate.kim,available,5.98,32.98,medium,low,6,namecheap,,,24/08/2026 12:39
 bbadad8a-ae82-4702-beae-5ce0415d5aa5,whatever.kim,available,12.99,23.49,high,low,8,namesilo,,,22/09/2026 06:56
@@ -136,8 +151,9 @@ f4edbc29-7c70-41e2-9675-85619a71cefc,throttle.kim,available,12.99,23.49,high,low
 e939c772-db81-47c1-aded-27b9b0c7c1be,thatcher.kim,available,12.99,23.49,medium,low,8,namesilo,,,22/09/2026 07:26
 4e46d852-3697-4dee-aa3f-1e00b1ce3dad,proposed.kim,available,5.38,18.83,medium,low,8,spaceship,,,28/09/2026 04:49
 7d85381d-77de-4b61-ad26-b7ebac6c3863,badinage.kim,available,12.99,23.49,medium,low,8,namesilo,,,21/09/2026 17:13
+58abc716-fa5f-4cad-b105-b73a8756d769,treatments.kim,available,5.38,18.83,medium,low,10,spaceship,,,29/09/2026 04:46
 ba319cc3-1343-45cd-b948-13496ae3e3eb,could.kim,available,14.99,,high,low,5,name.com,,,
-7d13170a-3233-4d8f-aa78-5b216b1d947a,hang.kim,premium,14.99,,high,low,4,name.com,,,
+7d13170a-3233-4d8f-aa78-5b216b1d947a,hang.kim,available,5.98,32.98,high,low,4,namecheap,,,28/09/2026 19:01
 bb27face-b45a-4e47-a706-8ebd6cff9488,collarless.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/08/2026 16:40
 b40670d6-fdbb-4e3a-ad88-f9671fca3b66,dogmatism.kim,available,12.99,23.49,medium,low,9,namesilo,,,23/09/2026 15:23
 ed24358c-c1ba-4626-9c7e-5a8436492e11,hilar.kim,available,5.98,32.98,medium,low,5,namecheap,,,21/08/2026 09:19
@@ -162,10 +178,12 @@ e7ad39ba-c7db-4d14-82ee-093ced4900c7,mercurial.kim,available,5.98,32.98,high,low
 5b3b2998-479d-4e60-a9e9-272dd8d643d6,chaos.kim,available,5.98,32.98,high,medium,5,namecheap,,,22/09/2026 23:21
 482ee150-62b3-4e58-a069-3bf33bf5d218,plenty.kim,available,5.98,32.98,high,low,6,namecheap,,,17/08/2026 09:49
 3b4aa049-86d0-461e-aadb-c93fb0d42a79,paton.kim,available,12.99,23.49,medium,low,5,namesilo,,,18/09/2026 01:46
+0b7f827b-fe1a-480a-b464-49bb4f25cd4b,jose.kim,available,18.2,18.2,high,low,4,cloudflare,,,28/09/2026 11:51
 5f1f3e74-12b4-4f26-a038-3f28ec6c8dcd,mesolithic.kim,available,5.98,32.98,medium,low,10,namecheap,,,24/08/2026 21:17
 ca891234-3595-4561-beba-f8a5a7bc54d7,unsinkable.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/09/2026 19:58
-86c5bfc0-8244-47eb-b5ae-19344f04f33a,curiously.kim,available,14.99,,medium,low,9,name.com,,,
+86c5bfc0-8244-47eb-b5ae-19344f04f33a,curiously.kim,available,12,,medium,low,9,unstoppable,,,28/09/2026 14:28
 f3ced124-0378-4ca8-94ae-f308ff1f93bd,represented.kim,available,14.99,,high,low,11,name.com,,,
+01bfed97-fb86-4f43-90fc-aee744c68ef1,resisting.kim,available,8.24,19.11,medium,low,9,dynadot,,,28/09/2026 21:16
 50289397-256b-42e7-8645-edb1c701917c,amphibious.kim,available,5.98,32.98,medium,low,10,namecheap,,,
 c6fc9a8e-1334-48be-9621-56a4121f25b9,intune.kim,available,14.99,27.99,high,low,7,name.com,,,17/09/2026 12:54
 6deadc6f-aef4-4242-abb2-04b454923e2e,artfully.kim,available,5.98,32.98,medium,low,8,namecheap,,,13/09/2026 20:53
@@ -175,7 +193,7 @@ b2326a02-054a-46e9-9a4a-e9f1b1ce0d10,tuppeny.kim,available,5.98,32.98,medium,low
 71a780c2-4763-43d0-afe9-3f1cfefda53a,avenged.kim,available,5.98,32.98,high,low,7,namecheap,,,07/08/2026 22:35
 66e71059-c6e3-46a7-8c58-344289e9112f,pendant.kim,available,5.98,32.98,high,low,7,namecheap,,,08/09/2026 14:12
 91e0df53-fcf2-4c1c-8502-149372eb8592,shot.kim,available,12.99,23.49,high,low,4,namesilo,,,23/09/2026 13:53
-ef7d1f05-6b86-4ce5-a6f5-c326af0b4614,addition.kim,available,14.99,,high,low,8,name.com,,,
+b0076f8a-cac3-4ad0-8e17-0ed0f2c65c07,admitting.kim,available,12,,medium,low,9,unstoppable,,,28/09/2026 20:58
 3c6fb20e-fc79-40a3-afb8-b62c717aa053,forwards.kim,available,5.98,32.98,high,low,8,namecheap,,,18/08/2026 12:49
 e6c34791-b664-459b-af74-acca08baf756,grew.kim,available,14.99,,high,low,4,name.com,,,
 c8c6282c-fd0a-4ebe-9551-819e25401b0e,brimless.kim,available,5.98,32.98,medium,low,8,namecheap,,,11/08/2026 04:13
@@ -189,7 +207,7 @@ b271ae4f-ba41-4a4d-a0a1-95403365824b,palmatifid.kim,available,5.98,32.98,medium,
 91d8b115-6be8-494a-bd32-52a2f26f1c32,trees.kim,available,14.99,,high,low,5,name.com,,,
 99006371-35a7-4273-ad44-366e571b64d6,cursorial.kim,available,5.98,32.98,medium,low,9,namecheap,,,13/08/2026 11:40
 1488182c-f498-4afd-afb7-2e92f969f7b2,auricular.kim,available,5.98,32.98,medium,low,9,namecheap,,,07/08/2026 17:46
-14e1a013-638a-46c0-b0a4-86f046133e82,hazard.kim,available,14.99,,medium,low,6,name.com,,,
+14e1a013-638a-46c0-b0a4-86f046133e82,hazard.kim,available,12,,medium,low,6,unstoppable,,,28/09/2026 18:59
 c1943fe3-a7f0-4384-b77c-4adaa5092eea,disadvantage.kim,available,14.99,,high,low,12,name.com,,,
 1a2ebe61-4a3f-4811-b7f6-7c4bbd21390d,authorship.kim,available,12.99,23.49,high,low,10,namesilo,,,21/09/2026 05:26
 58dbc2cc-a529-4e3e-a51a-7fe33e88b989,evoked.kim,available,5.98,32.98,medium,low,6,namecheap,,,16/08/2026 04:33
@@ -203,12 +221,12 @@ b8fcf378-4032-4f1b-af8f-0ae71b2ccefd,highland.kim,available,5.98,32.98,high,low,
 d2cdba5a-c6b7-48b6-b193-9184ff8e7897,enjoyed.kim,available,12.99,23.49,medium,low,7,namesilo,,,25/09/2026 20:42
 4f3f5849-1d7c-4ef2-81c8-d0ce3b4e7a62,conduction.kim,available,14.99,,high,low,10,name.com,,,
 ad8468bf-9a52-4de1-8608-de4cf07987bf,bantam.kim,available,5.98,32.98,medium,low,6,namecheap,,,08/08/2026 14:01
-e1596f0e-f5e0-4543-a17b-47f2547525d8,hook.kim,available,14.99,,high,low,4,name.com,,,
+e1596f0e-f5e0-4543-a17b-47f2547525d8,hook.kim,available,8.24,19.11,high,low,4,dynadot,,,28/09/2026 18:24
 02db6c32-0369-44b7-b630-003f2897a41a,notice.kim,available,12.99,23.49,high,low,6,namesilo,,,24/09/2026 16:29
 88547793-1609-4273-8cb8-2fe348184f21,destitute.kim,available,5.98,32.98,medium,low,9,namecheap,,,14/08/2026 04:32
 b88cb9a1-1b17-4ce7-81e2-16b70282ed66,stoned.kim,available,5.98,32.98,medium,low,6,namecheap,,,10/09/2026 21:10
 433e528b-614f-4066-9ff8-53060641a0d1,pediatrist.kim,available,12.99,23.49,medium,low,10,namesilo,,,21/09/2026 13:27
-5bcc294e-8e44-4478-b061-17d52226fc2f,agree.kim,available,14.99,,high,low,5,name.com,,,
+5bcc294e-8e44-4478-b061-17d52226fc2f,agree.kim,available,12,,high,low,5,unstoppable,,,28/09/2026 17:26
 302b94f8-e02e-4b24-83c7-78a8d741e214,scruples.kim,available,5.98,32.98,high,low,8,namecheap,,,24/09/2026 17:26
 7a5843a6-9ded-43e4-bc93-b4fb0cb7adbf,pronounced.kim,available,12.99,23.49,high,low,10,namesilo,,,25/09/2026 16:53
 2bc9775d-e837-4618-aa83-0eada22c2b43,baulk.kim,available,5.98,32.98,medium,low,5,namecheap,,,14/08/2026 04:57
@@ -243,11 +261,13 @@ cd23934f-289b-4d8b-878c-973b4584171c,intensify.kim,available,5.98,32.98,high,low
 77c24a15-6dfe-4a8b-bc4f-16849c978d47,arranger.kim,available,12.99,23.49,medium,low,8,namesilo,,,17/09/2026 06:29
 13c12307-89e0-49cb-8542-d1cc88b60f31,lucullan.kim,available,5.98,32.98,medium,low,8,namecheap,,,24/08/2026 11:00
 d3322e33-c4c5-462a-8863-bd2a9c94aa58,emotionally.kim,available,18.2,18.2,high,low,11,cloudflare,,,27/09/2026 17:53
+d6f0b9cb-db8c-432d-bbe7-1cffe40a48f3,bundy.kim,available,12.99,23.49,medium,low,5,namesilo,,,28/09/2026 11:45
 75c7c4d7-a1df-456a-bbb0-7460ddf0485d,surgically.kim,available,12.99,23.49,medium,low,10,namesilo,,,16/09/2026 07:41
 f28570de-9e56-434b-9dba-63d79b38f738,decelerate.kim,available,5.98,32.98,medium,low,10,namecheap,,,10/09/2026 11:21
 1cf1641a-e1ec-489f-a9ac-8de227df6446,clinton.kim,available,5.98,32.98,high,low,7,namecheap,,,23/09/2026 15:58
 2fd42658-55a6-4807-8dec-d50be6efd4f5,ironical.kim,available,5.98,32.98,medium,low,8,namecheap,,,22/08/2026 10:06
 cc64ea8d-bee6-4c7f-9230-7face002bc1c,sammy.kim,available,12.99,23.49,high,low,5,namesilo,,,26/09/2026 03:25
+f24b84b9-d640-425c-be1b-0ae4cb5be0aa,ludwig.kim,available,12.99,23.49,medium,low,6,namesilo,,,29/09/2026 05:16
 baeead60-7326-48f3-8183-f8a5961fcbd9,horrified.kim,available,5.98,32.98,medium,low,9,namecheap,,,21/08/2026 14:14
 66c5b2ce-6cfa-442b-b846-e38bf19db833,abwatt.kim,available,12.99,23.49,medium,low,6,namesilo,,,16/09/2026 19:39
 65eb8a25-8061-4c7c-b41d-c9944d2dbacb,dutiful.kim,available,5.98,32.98,high,low,7,namecheap,,,14/08/2026 21:39
@@ -257,7 +277,7 @@ fa65a91f-0c46-4f0a-b457-c9fbe4ce257e,beginner.kim,available,12.99,23.49,high,low
 e124f001-9b2d-4258-b12e-78976c1c9e0d,abetment.kim,available,12.99,23.49,medium,low,8,namesilo,,,16/09/2026 15:17
 5fcace6f-4974-477e-ab03-04b6e6f11162,kurdish.kim,available,5.98,32.98,high,low,7,namecheap,,,22/08/2026 17:04
 e83f86c3-b442-46e1-a045-95d8862dfe0d,sleeve.kim,available,12.99,23.49,high,low,6,namesilo,,,27/09/2026 15:53
-5729a27b-4339-4649-aae1-54d318060fa0,unique.kim,available,12.99,23.49,high,medium,6,namesilo,,,27/09/2026 05:05
+5729a27b-4339-4649-aae1-54d318060fa0,unique.kim,available,12.99,23.49,high,medium,6,namesilo,,,28/09/2026 09:43
 efc544da-8e80-4938-bfe7-c04c0abcc382,optical.kim,available,5.98,32.98,high,low,7,namecheap,,,04/09/2026 00:42
 490d7575-b368-4a18-aa62-a7f4c9e5f733,defective.kim,available,5.98,32.98,medium,low,9,namecheap,,,13/08/2026 23:06
 7772818f-be07-4af4-8c97-65e25337b864,unforced.kim,available,5.98,32.98,high,low,8,namecheap,,,12/09/2026 05:40
@@ -267,11 +287,11 @@ edabd7c7-2e37-4dc1-bf13-93dc076abab2,moated.kim,available,5.98,32.98,medium,low,
 43b33b59-6955-4fd7-9243-ee9dc9fca4fc,tauten.kim,available,5.98,32.98,medium,low,6,namecheap,,,18/08/2026 05:16
 cfdfd680-9295-4655-8e94-10ba13c4fa30,danceable.kim,available,14.99,27.99,medium,low,9,name.com,,,13/08/2026 16:59
 7d6767d9-18c3-4655-a390-2d700871d1bd,crisply.kim,available,5.98,32.98,medium,low,7,namecheap,,,14/09/2026 09:37
+52f99567-4c39-4da4-a848-3a89993cc4db,trench.kim,available,18.2,18.2,medium,low,6,cloudflare,,,28/09/2026 20:01
 fe52803b-4db3-4364-95f9-1ddea5b412f2,systematic.kim,available,5.98,32.98,high,low,10,namecheap,,,11/09/2026 06:44
 3c02c51b-4989-485b-9c05-07748cfb20d8,omen.kim,available,12.99,23.49,high,low,4,namesilo,,,27/09/2026 07:13
 29883fc5-c56d-4578-9538-84bde199c839,bedpost.kim,available,12.99,23.49,high,low,7,namesilo,,,22/09/2026 23:29
 3eea73d9-705b-47cc-9295-7373af4e35cc,naively.kim,available,5.98,32.98,medium,low,7,namecheap,,,15/09/2026 16:00
-b348a80d-36d4-4d56-ab57-f4003f0024d2,paddle.kim,available,,,high,high,6,,,,
 28ea3390-fb02-4ef1-b324-9da5fa55500f,admittance.kim,available,12.99,23.49,high,low,10,namesilo,,,16/09/2026 22:13
 99a3c9b6-4061-4ae2-9fef-a8ac59e5cf38,treated.kim,available,5.98,32.98,high,low,7,namecheap,,,11/09/2026 10:52
 2e978dd0-74ee-47e7-b28e-8a690fb379ad,elaborate.kim,available,12.99,23.49,high,low,9,namesilo,,,24/09/2026 07:12
@@ -279,8 +299,11 @@ b348a80d-36d4-4d56-ab57-f4003f0024d2,paddle.kim,available,,,high,high,6,,,,
 3d1c4ae3-6a63-492c-8968-e8adcae29743,intend.kim,available,5.98,32.98,high,low,6,namecheap,,,25/09/2026 18:20
 80cfeaf5-6c4b-4e48-beec-e9cb6a350d0c,assembly.kim,available,12.99,23.49,high,low,8,namesilo,,,20/09/2026 16:09
 d49850bb-d4e3-4d5e-9bed-57521a6078ea,conquest.kim,available,14.99,,high,low,8,name.com,,,
+7fe65b81-e692-49b6-9754-720c7d2945dc,chet.kim,available,5.38,18.83,high,low,4,spaceship,,,29/09/2026 03:38
+58a36d53-7e20-49ae-b5f9-89b78793d792,emerald.kim,available,18.2,18.2,high,low,7,cloudflare,,,28/09/2026 19:05
 cd782407-b8c3-4deb-b54d-88cfd800a916,shaken.kim,available,5.98,32.98,high,low,6,namecheap,,,10/09/2026 05:44
 b0ec5e40-872a-4ec0-917b-b7fe906705d1,acardia.kim,available,5.98,32.98,medium,low,7,namecheap,,,16/09/2026 21:17
+055b85fc-ddc3-4175-afb1-68480335fc27,uprising.kim,available,5.38,18.83,medium,low,8,spaceship,,,29/09/2026 01:22
 a747c753-dbb2-4ef4-b1b3-238a3ebb0c36,bosnia.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 02:00
 5314ad76-2922-4baf-8cee-c45ca5b0d740,structural.kim,available,12.99,23.49,high,low,10,namesilo,,,19/09/2026 17:09
 a0e1e37b-a679-480b-bdd5-308571fe9277,celestial.kim,available,5.98,32.98,high,low,9,namecheap,,,11/08/2026 23:20
@@ -297,7 +320,6 @@ e76131eb-6d01-4ec8-a088-1508b0127ca9,aliment.kim,available,5.98,32.98,medium,low
 ea75d911-4b76-4b37-b83e-fec0e01bad47,benefic.kim,available,5.98,32.98,medium,low,7,namecheap,,,09/08/2026 14:18
 5e38c91c-01b3-4286-80c7-35b361e0d4d5,beebread.kim,available,12.99,23.49,medium,low,8,namesilo,,,18/09/2026 17:24
 3d1e51f7-aca5-4dc7-bc30-86e45521e440,dwindling.kim,available,5.98,32.98,medium,low,9,namecheap,,,14/08/2026 21:48
-51ca25dd-558f-4e8c-a5f5-940b403e3f02,add.kim,available,,,high,low,3,,,,
 293880cb-26c9-4943-b50e-89595e97ffc6,formation.kim,available,5.38,18.83,high,low,9,spaceship,,,28/09/2026 05:38
 3d9bd896-0863-4125-84a2-92cb434cb758,liberal.kim,available,5.98,32.98,high,low,7,namecheap,,,09/08/2026 20:57
 dbd74775-0e51-4abf-bb3e-09d6405140d1,firefighter.kim,premium,1250,,high,low,11,name.com,,,
@@ -317,12 +339,15 @@ a3e27c38-5241-4964-b7eb-645b527c8690,adenauer.kim,available,5.98,32.98,medium,lo
 5d39d91f-214b-4203-b361-75a4ed9f2365,localised.kim,available,5.98,32.98,medium,low,9,namecheap,,,24/08/2026 08:47
 5e23aa24-db3f-48c4-8cf0-cebe3475748d,stonewalls.kim,available,12.99,23.49,low,low,10,namesilo,,,20/09/2026 14:03
 522faad4-293b-4d8b-8a3b-de9c6cefd71b,sweetish.kim,available,5.98,32.98,medium,low,8,namecheap,,,11/09/2026 05:36
+ae87d01f-1f5a-4949-bccd-1269dae31d5f,gem.kim,available,8.24,19.05,high,medium,3,porkbun,,,28/09/2026 19:19
 b89f5da0-debc-4a00-9927-c957d9345f0d,feet.kim,available,14.99,,high,low,4,name.com,,,
 7eceea4a-2289-45d4-94b8-93a2574d38b1,islands.kim,available,14.99,,high,low,7,name.com,,,
 7578547e-d27e-465b-9066-4c58c5778e0a,ult.kim,available,5.98,32.98,high,low,3,namecheap,,,11/09/2026 22:48
 7ebdc56a-2777-4363-a92d-87b24134b4e3,analects.kim,available,12.99,23.49,medium,low,8,namesilo,,,19/09/2026 01:48
 d137bebe-0ea0-4350-aa33-320213cfd120,molto.kim,available,5.98,32.98,medium,low,5,namecheap,,,15/09/2026 15:19
+4baab279-c359-48d1-9914-227768ad90d0,valdez.kim,available,8.24,19.11,medium,low,6,dynadot,,,28/09/2026 20:43
 d9dc5a1a-4e47-4699-b200-3347fedaa23f,basque.kim,available,12.99,23.49,high,low,6,namesilo,,,22/09/2026 11:41
+3c8390d8-085a-4a4c-abf2-110716e9b001,argued.kim,available,5.38,18.83,low,low,6,spaceship,,,28/09/2026 22:57
 32748a01-2174-4ac0-980b-17a6d285e243,profanely.kim,available,5.98,32.98,low,low,9,namecheap,,,15/09/2026 21:40
 d9f16610-f78f-4917-bfb7-a6251f52bc09,dotted.kim,available,14.99,27.99,medium,low,6,name.com,,,13/08/2026 18:28
 5d77543f-1699-4f36-9610-1e953539bdbb,blackbuck.kim,available,12.99,23.49,medium,low,9,namesilo,,,19/09/2026 14:39
@@ -338,7 +363,10 @@ fc20a744-7e83-40c6-a79c-d414edd6941c,flag.kim,available,5.98,32.98,high,low,4,na
 a8dd49fb-f74e-4c65-8d4e-ebc25a6f2685,past.kim,available,12.99,23.49,high,low,4,namesilo,,,27/09/2026 02:57
 3739882c-70c4-48a3-a2ba-9c716cedff94,antibody.kim,available,5.98,32.98,high,low,8,namecheap,,,19/09/2026 14:14
 e0742bc2-7a9d-4b57-b495-f90e339c8623,year.kim,available,14.99,,high,low,4,name.com,,,
+62f17364-c40f-4968-9d8c-4fe2e0e3691f,associates.kim,available,5.38,18.83,medium,low,10,spaceship,,,28/09/2026 08:50
 58006301-7549-4a48-8459-79e6a45ab678,metabolic.kim,available,5.98,32.98,high,low,9,namecheap,,,24/08/2026 21:26
+39f1502e-4ca6-41eb-bb01-7dfec653dc15,modena.kim,available,18.2,18.2,medium,low,6,cloudflare,,,29/09/2026 03:43
+156e818f-033c-4c2c-9b6d-8dddca05b7b2,plagued.kim,available,5.38,18.83,medium,low,7,spaceship,,,29/09/2026 03:23
 efb76a74-3f8e-48fb-9c74-cad25640b9c4,equations.kim,available,12.99,23.49,medium,low,9,namesilo,,,18/09/2026 12:39
 70e7bd5c-63dc-499c-b1ee-bbc2bdbd03fa,portland.kim,available,14.99,,high,low,8,name.com,,,
 59ed1f9f-aa94-496c-ba35-472ebb758f1a,sharon.kim,premium,242,242,high,low,6,namesilo,,,27/09/2026 06:30
@@ -387,7 +415,7 @@ b4a34e8a-b562-4154-aa56-e38032066bd0,constant.kim,available,5.98,32.98,high,low,
 e7f35152-b614-4abc-8914-15d9b8f280f9,squiggly.kim,available,5.98,32.98,medium,low,8,namecheap,,,10/09/2026 17:43
 058dc2ab-d440-4c54-8459-a4bdb624d362,nonplussed.kim,available,5.98,32.98,medium,low,10,namecheap,,,07/08/2026 10:48
 f3e367cb-8a9e-408f-b85b-1dcb3c183328,pediatric.kim,available,5.98,32.98,high,low,9,namecheap,,,04/09/2026 22:48
-3b46b110-5159-41e4-acae-314ae207b9db,bowls.kim,available,14.99,,high,low,5,name.com,,,
+3b46b110-5159-41e4-acae-314ae207b9db,bowls.kim,available,5.38,18.83,high,low,5,spaceship,,,29/09/2026 03:46
 eecc8f8b-26c9-4027-8641-00fd678467ec,grammar.kim,available,14.99,,high,low,7,name.com,,,
 dbea78fe-eccf-480e-b4b7-87466059dc6e,shouting.kim,available,5.98,32.98,medium,low,8,namecheap,,,12/08/2026 03:49
 828dfa3a-9f3d-422c-a8fb-65ae3ff296da,pays.kim,available,12.99,23.49,medium,low,4,namesilo,,,25/09/2026 17:21
@@ -400,10 +428,13 @@ a882a60e-e70a-4c56-aadc-78a839217e7d,xxxv.kim,available,5.98,32.98,medium,low,4,
 0c2f9d0b-92bf-489c-9861-b725a7e4111f,calibre.kim,available,12.99,23.49,high,low,7,namesilo,,,24/09/2026 11:45
 0cc96b6f-5205-438e-bd15-641b63a95fc1,castor.kim,available,12.99,23.49,medium,low,6,namesilo,,,18/09/2026 13:36
 382fc63f-9fd9-450c-9383-ffd92415474f,gory.kim,available,5.98,32.98,medium,low,4,namecheap,,,10/08/2026 15:23
+62bb5f59-f293-48ae-9c3b-6a2664f9c741,heidi.kim,available,12.99,23.49,high,low,5,namesilo,,,28/09/2026 16:18
 83084591-21a7-4ddf-9712-7a45674f595a,retiring.kim,available,12.99,23.49,high,low,8,namesilo,,,27/09/2026 13:20
+10e64f6f-ff68-4aa2-ac6d-7cced847a150,adjust.kim,available,5.38,18.83,high,low,6,spaceship,,,28/09/2026 11:09
 97b87933-bce2-41bc-b986-83c5e06882dc,carryforward.kim,available,12.99,23.49,medium,low,13,namesilo,,,16/09/2026 06:47
 1415d1e6-d3ab-42b7-826d-9b2cbf5c7be1,afterimage.kim,available,12.99,23.49,high,low,10,namesilo,,,17/09/2026 15:42
 548bf1c4-08e9-45a1-84c9-8458283b9f0d,shift.kim,available,5.38,18.83,high,medium,5,spaceship,,,27/09/2026 21:11
+1c1a5d82-cc8b-4923-98f0-eeed4583dbc3,measures.kim,available,5.38,18.83,low,low,8,spaceship,,,28/09/2026 08:34
 4cc87397-15e5-47c1-826e-e2e5a693d03f,desires.kim,available,12.99,23.49,high,low,7,namesilo,,,17/09/2026 08:40
 a045d72c-703f-4011-81f6-fffc7df08fbe,distinction.kim,available,14.99,,high,low,11,name.com,,,
 7612dd16-38a0-4ead-bca3-b60b1cb71786,slothful.kim,available,5.98,32.98,medium,low,8,namecheap,,,17/08/2026 20:58
@@ -413,6 +444,7 @@ b3c1f8dd-3a5a-4b84-8580-46c6b58b1eec,caprice.kim,available,12.99,23.49,high,low,
 4438cec6-def2-4d1f-87ea-9cf503f23d6b,compounded.kim,available,5.98,32.98,high,low,10,namecheap,,,12/08/2026 19:34
 16fd3f92-628e-4cec-8bab-12b3833732f5,seize.kim,available,5.98,32.98,high,low,5,namecheap,,,23/09/2026 20:08
 2961c7ee-50fb-4d36-bc08-caaa1ef5d603,defunct.kim,available,5.98,32.98,medium,low,7,namecheap,,,13/08/2026 23:55
+40f69509-4e2f-4482-b10b-25a1a616a78f,mahler.kim,available,5.38,18.83,medium,low,6,spaceship,,,29/09/2026 01:10
 659a038a-a42b-4514-93b4-cfe65b7c246c,lizard.kim,available,14.99,,high,low,6,name.com,,,
 a157b227-7e74-4c91-a1b2-0a6ee5fc4503,birchbark.kim,available,5.98,32.98,medium,low,9,namecheap,,,23/09/2026 19:23
 bc47dc94-5206-4231-9297-82362bc1ef37,workfare.kim,available,14.99,,medium,low,8,name.com,,,
@@ -426,6 +458,7 @@ e060681c-4f30-475d-904c-c41aeaeac063,head.kim,available,12.99,23.49,high,low,4,n
 895e986b-07cc-4b07-880a-30b3f5718ee8,nude.kim,available,5.98,32.98,high,low,4,namecheap,,,07/08/2026 16:15
 520389b1-9ed6-43c6-83a9-926f48456e6e,legend.kim,resell,,,high,low,6,"Xiamen ChinaSource Internet Service Co., Ltd",02/12/2025 15:15,02/12/2026 15:15,26/09/2026 07:11
 1e281f63-d9f5-488e-ae8f-75c460461b6b,encounter.kim,available,5.98,32.98,high,low,9,namecheap,,,25/09/2026 19:00
+b47089aa-34a8-4a3c-87bd-06a1be34f54f,trance.kim,available,12.99,23.49,high,low,6,namesilo,,,28/09/2026 13:44
 944a8ad0-a53d-4b46-ab58-0d3103782021,pestilent.kim,available,5.98,32.98,medium,low,9,namecheap,,,08/08/2026 12:06
 16f82722-20de-40b4-a4ca-2c2699b539b9,shag.kim,available,5.98,32.98,medium,low,4,namecheap,,,18/08/2026 17:33
 574a4f07-0672-4728-afea-a9bd019aa2d1,dawson.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 04:48
@@ -444,11 +477,14 @@ ec9e47a7-a1c3-4a41-ad8a-5158f2ca21a0,elk.kim,available,12.99,23.49,high,low,3,na
 5da7a183-1c8b-4e97-9c76-d0ba14503e2f,plausible.kim,available,5.98,32.98,high,low,9,namecheap,,,08/09/2026 20:55
 faa5be08-b924-48b8-a58c-e7c4bbee4db1,whistle.kim,available,12.99,23.49,high,low,7,namesilo,,,25/09/2026 23:59
 ca0bc6e7-2fa5-4c06-862f-1c7805d9a602,finitely.kim,available,5.98,32.98,medium,low,8,namecheap,,,14/09/2026 18:35
+82a8f7df-f44c-4d39-bb25-762abf0ce9ef,strap.kim,available,5.38,18.83,high,low,5,spaceship,,,28/09/2026 10:12
 74873f25-c79c-44bc-b08a-82f33bd35f42,alborg.kim,available,12.99,23.49,medium,low,6,namesilo,,,16/09/2026 13:12
 84d9ebdc-07f3-4728-b733-af0a9f645fca,thaw.kim,available,5.98,32.98,high,low,4,namecheap,,,24/08/2026 19:45
+d5624bcc-142b-4721-9e69-ccf15bfa61d1,violating.kim,available,5.38,18.83,low,low,9,spaceship,,,29/09/2026 05:13
 063e5d0c-ff1e-4d26-a988-3b34a1a786ef,acquittal.kim,available,12.99,23.49,high,low,9,namesilo,,,17/09/2026 02:42
 65360bb1-da55-446f-a525-cc70d1d0e821,promptly.kim,available,5.98,32.98,high,low,8,namecheap,,,09/09/2026 08:42
 20f32041-fbbf-4866-a288-53e00a994f38,wreck.kim,available,5.98,32.98,high,low,5,namecheap,,,27/09/2026 05:55
+07553b7b-c0be-4ef0-9616-292981fa7819,graduating.kim,available,12,,low,low,10,unstoppable,,,28/09/2026 12:36
 ceb759e1-3192-4860-bd40-430d0eb768cf,oven.kim,available,12,,high,low,4,unstoppable,,,28/09/2026 06:32
 7cf08e68-a3d5-4522-b179-6bfb2af5b7cf,amends.kim,available,12.99,23.49,high,low,6,namesilo,,,18/09/2026 18:41
 915510d7-233f-4b22-b092-5484d2bdee8d,foliose.kim,available,5.98,32.98,medium,low,7,namecheap,,,18/08/2026 10:11
@@ -463,9 +499,10 @@ aa16ed54-b3f8-434e-a1c0-9d69024cc99b,jiang.kim,available,12.99,23.49,high,low,5,
 e73e09f2-33fa-4e73-b5b8-ef78393b7e34,enabling.kim,available,5.98,32.98,high,low,8,namecheap,,,16/08/2026 21:07
 059ada20-9ba1-43e0-b46c-faa6e9242568,notifies.kim,available,5.98,32.98,medium,low,8,namecheap,,,18/09/2026 08:35
 e3e0c394-9c56-4105-a600-7510bfa24177,fancy.kim,available,12.99,23.49,high,low,5,namesilo,,,25/09/2026 06:51
+e52d6bbf-ff21-4721-ac55-a1af11909786,conceived.kim,available,18.2,18.2,medium,low,9,cloudflare,,,28/09/2026 22:54
 f95da697-0581-4104-9783-2911a603f00b,juliet.kim,available,5.98,32.98,high,low,6,namecheap,,,28/09/2026 03:46
 e2a347a5-a741-49ae-b945-8d10bd52f560,backpacker.kim,available,12.99,23.49,high,low,10,namesilo,,,21/09/2026 15:44
-508639e8-f0bc-4519-824c-88659ce63532,widely.kim,available,14.99,,medium,low,6,name.com,,,
+508639e8-f0bc-4519-824c-88659ce63532,widely.kim,available,12.99,23.49,medium,low,6,namesilo,,,28/09/2026 16:47
 1e7c6c21-0c72-4cf1-a035-190e3d10dda5,wrathful.kim,available,5.98,32.98,medium,low,8,namecheap,,,13/09/2026 13:36
 c21ddd8e-f379-4321-b854-102753a9f5fe,luzon.kim,available,12.99,23.49,high,low,5,namesilo,,,27/09/2026 14:53
 4a0fed81-920e-4ddc-9c60-d5b1cb0f33bf,acentric.kim,available,5.98,32.98,medium,low,8,namecheap,,,
@@ -477,9 +514,11 @@ cd63fd2c-9db2-4b9e-a638-518a5d21c3e8,expanded.kim,available,5.98,32.98,high,low,
 789c2baf-cb67-40a6-8370-e9ebb942e18c,hubbard.kim,available,12.99,23.49,high,low,7,namesilo,,,25/09/2026 07:34
 a6a6c2db-045c-4f4e-b764-5b73c29985ee,animated.kim,available,12.99,23.49,high,low,8,namesilo,,,22/09/2026 05:00
 b3087ddc-ae17-4b81-8548-7512122317af,maiden.kim,available,5.98,32.98,high,low,6,namecheap,,,22/08/2026 05:32
+5ad093fb-aa43-44ae-9775-877f08410782,arise.kim,available,18.2,18.2,high,low,5,cloudflare,,,28/09/2026 10:48
 823dce03-a691-4bd6-8010-200bbe65ef03,unsheared.kim,available,5.98,32.98,low,low,9,namecheap,,,12/09/2026 19:44
 4dd17a71-56a9-4b2a-b042-898e24790e92,flukey.kim,available,5.98,32.98,medium,low,6,namecheap,,,18/08/2026 09:20
 0739eb12-b264-4b93-aa9e-f61520dc1c4d,secondhand.kim,available,5.98,32.98,high,low,10,namecheap,,,10/09/2026 01:09
+d1d3f38d-2b96-4689-b920-b3cc726534b1,respectable.kim,available,12,,high,low,11,unstoppable,,,28/09/2026 11:23
 d08c87bb-001c-464a-b85f-8849f4b5a787,repressed.kim,available,5.98,32.98,medium,low,9,namecheap,,,08/09/2026 14:49
 f1c76d81-af31-49d1-bfbb-f192af5d3222,alabaman.kim,available,12.99,23.49,medium,low,8,namesilo,,,18/09/2026 01:35
 3e818997-9490-49a2-adc8-6d29ce187480,wired.kim,available,12.99,23.49,high,low,5,namesilo,,,27/09/2026 08:11
@@ -496,7 +535,7 @@ dfa99ee7-2818-4bdb-9115-4d46be7af524,introspections.kim,available,14.99,,low,low
 da4f2264-3eb5-4883-a8f3-e335f0064326,aural.kim,available,12.99,23.49,high,low,5,namesilo,,,22/09/2026 12:49
 8897e9f4-cc45-402b-ac0c-52e515b7a563,stanford.kim,available,5.98,32.98,high,low,8,namecheap,,,28/09/2026 06:08
 da54ef7a-a2f7-4cb7-8578-cd7585e2a5d0,slots.kim,available,12.99,23.49,high,low,5,namesilo,,,20/09/2026 10:58
-56a1e04c-b70a-41a2-8f1b-feeca7709cd4,verbal.kim,available,14.99,,high,low,6,name.com,,,
+56a1e04c-b70a-41a2-8f1b-feeca7709cd4,verbal.kim,available,5.38,18.83,high,low,6,spaceship,,,28/09/2026 10:13
 ff91c465-a736-4abf-99c4-2b7f9b2ce535,secular.kim,available,5.98,32.98,medium,low,7,namecheap,,,22/08/2026 18:49
 6ba6892c-7e28-4d22-91ed-87576978a270,outmost.kim,available,5.98,32.98,medium,low,7,namecheap,,,04/09/2026 19:19
 33502936-c7d8-406a-9979-36812a9b0b74,cabinet.kim,available,12.99,23.49,high,low,7,namesilo,,,24/09/2026 11:32
@@ -504,7 +543,7 @@ d1315a5c-b5f5-4df6-bc86-e5a11018b306,lavish.kim,available,5.98,32.98,high,low,6,
 f04afd7b-a4ee-45d9-a06e-37b723034965,pact.kim,available,18.2,18.2,high,low,4,cloudflare,,,28/09/2026 06:32
 36e51a3c-0924-4db4-89c1-84da5cd3a859,stoneless.kim,available,5.98,32.98,low,low,9,namecheap,,,10/09/2026 21:12
 2e1e405d-8c78-4c10-97a0-3110476a6427,thornton.kim,available,12.99,23.49,high,low,8,namesilo,,,25/09/2026 10:54
-f5da2f1f-1f8e-4a5e-8697-7bbc3b8f76fc,bus.kim,available,14.99,,high,low,3,name.com,,,
+f5da2f1f-1f8e-4a5e-8697-7bbc3b8f76fc,bus.kim,available,5.38,18.83,high,low,3,spaceship,,,28/09/2026 23:27
 edddfb15-31ec-4949-ab1e-1e347615e733,indanger.kim,available,14.99,,medium,low,9,name.com,,,
 58d11c2c-f3c8-4c55-b0af-1ff1a2dc24be,savory.kim,available,5.98,32.98,high,low,6,namecheap,,,25/08/2026 08:48
 8e912916-041f-49c3-8ee7-4dcaaf212705,risque.kim,available,5.98,32.98,medium,low,6,namecheap,,,18/08/2026 20:02
@@ -524,6 +563,7 @@ a1b7f854-ed9a-4a14-b35b-b10cdff54817,corked.kim,available,5.98,32.98,medium,low,
 54257b09-f27b-41c1-97bf-0965e5103c4a,gregor.kim,available,14.99,,high,low,6,name.com,,,
 866975d2-bce8-4a30-9452-c36e3b6aaf72,leprous.kim,available,5.98,32.98,medium,low,7,namecheap,,,23/08/2026 00:12
 c128a690-9705-4725-bd6f-73e813f0c5d7,unisex.kim,available,5.98,32.98,high,low,6,namecheap,,,12/09/2026 13:52
+9ce15397-c542-435e-b6e6-540c518db1a3,yamamoto.kim,available,8.24,19.11,medium,low,8,dynadot,,,28/09/2026 19:31
 c0964484-d1b8-4534-8705-2ecca1583f1e,aperiodic.kim,available,5.98,32.98,medium,low,9,namecheap,,,05/08/2026 22:30
 2fe8a083-8e91-433b-8a1e-974c55a1eace,manque.kim,available,5.98,32.98,medium,low,6,namecheap,,,24/08/2026 15:28
 209e1a59-a3a9-48bc-b856-b5566c67ec02,arroyo.kim,available,12.99,23.49,medium,low,6,namesilo,,,20/09/2026 09:33
@@ -551,8 +591,9 @@ c20681c2-fcca-4a02-b7fa-5bd763ba9da7,sticky.kim,available,5.98,32.98,high,low,6,
 4b33c84e-c14d-4d07-b947-72c9328fcb6b,zig.kim,available,5.98,32.98,high,low,3,namecheap,,,13/09/2026 15:15
 8f8c4c81-fe37-4c7c-890b-756c0a6ffc5b,crossroads.kim,available,14.99,,high,low,10,name.com,,,
 872f609a-9409-4f64-bc3b-4418e98d3add,prep.kim,available,9.99,35.99,high,low,4,godaddy,,,28/09/2026 02:07
-b76e7813-1bb3-4198-8e13-57605211304f,learning.kim,available,12.99,23.49,high,low,8,namesilo,,,27/09/2026 01:54
+b76e7813-1bb3-4198-8e13-57605211304f,learning.kim,available,12,23.49,high,low,8,unstoppable,,,28/09/2026 22:07
 add46df3-d76e-4b3a-b262-00a1573e7074,buffet.kim,available,12.99,23.49,high,low,6,namesilo,,,19/09/2026 17:05
+4dec632a-7adb-4d53-ad0a-a22055cc1340,tatar.kim,available,18.2,18.2,high,low,5,cloudflare,,,29/09/2026 01:41
 f08dda46-dd50-46b5-9f33-fe37edb799bd,coral.kim,available,12.99,23.49,high,low,5,namesilo,,,23/09/2026 23:19
 ce715218-95bc-4165-9322-63f51c8d674e,pigheaded.kim,available,5.98,32.98,medium,low,9,namecheap,,,11/08/2026 08:32
 a7d603e3-6abf-4bda-bb40-429e4dca2ca4,icebound.kim,available,5.98,32.98,medium,low,8,namecheap,,,21/08/2026 17:43
@@ -560,9 +601,10 @@ a7d603e3-6abf-4bda-bb40-429e4dca2ca4,icebound.kim,available,5.98,32.98,medium,lo
 510e2d00-dc59-4411-95a9-57b914a0cba0,merciful.kim,available,5.98,32.98,high,low,8,namecheap,,,24/08/2026 20:34
 2ed0dbc2-0b12-4baa-981f-2420709bac31,operation.kim,available,12.99,23.49,high,low,9,namesilo,,,28/09/2026 02:52
 0b6cb2ff-01ef-47a0-8f55-cb53747bd80e,jelly.kim,available,14.99,,high,low,5,name.com,,,
+80d2173c-78c9-4187-8ba3-b7f0b96b9e77,paragraph.kim,available,12.99,23.49,high,low,9,namesilo,,,28/09/2026 15:02
 f1c16727-beb6-44ec-b32c-94abb6ab9997,knocking.kim,available,5.98,32.98,high,low,8,namecheap,,,25/09/2026 08:51
 c832ef90-fef3-4e9a-b87f-a67fb703d260,beaten.kim,available,5.98,32.98,medium,low,6,namecheap,,,09/08/2026 05:47
-a3d32f75-2fdd-4c38-ae17-f96f03576aaf,namely.kim,available,14.99,,medium,low,6,name.com,,,
+a3d32f75-2fdd-4c38-ae17-f96f03576aaf,namely.kim,available,12.99,23.49,medium,low,6,namesilo,,,28/09/2026 16:21
 620c73de-72bd-4f7b-b435-dd2c88bb4c8b,textured.kim,available,5.98,32.98,medium,low,8,namecheap,,,12/08/2026 14:07
 e634aaa0-1f20-4e25-971f-f6f1437e24d1,tube.kim,available,12.99,23.49,high,low,4,namesilo,,,25/09/2026 22:34
 5ebd6a94-5bcd-4a7c-a9df-a92b5020ec76,cave.kim,available,12.99,23.49,high,low,4,namesilo,,,24/09/2026 13:21
@@ -570,9 +612,9 @@ e634aaa0-1f20-4e25-971f-f6f1437e24d1,tube.kim,available,12.99,23.49,high,low,4,n
 96e34db6-af83-41ef-b298-8ae49d307c24,unconfined.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/09/2026 06:03
 1dbd5a40-9ea1-4444-8c22-f35643edcab9,hypo.kim,available,5.98,32.98,high,low,4,namecheap,,,21/08/2026 17:15
 b5aebe8d-93d1-4019-a320-8ca5d78c9a98,deferent.kim,available,5.98,32.98,medium,low,8,namecheap,,,13/08/2026 23:17
-af091c5e-4e0a-4b87-91a0-7a2038d887aa,billboard.kim,available,14.99,,high,low,9,name.com,,,
+af091c5e-4e0a-4b87-91a0-7a2038d887aa,billboard.kim,available,12.99,23.49,high,low,9,namesilo,,,29/09/2026 02:43
 9d02ee08-9197-4cc3-bfaf-ac3a30ff2eb5,tastily.kim,available,12.99,23.49,medium,low,7,namesilo,,,16/09/2026 08:03
-8626175b-1aee-4a2d-b3d6-d0992736aa49,investment.kim,available,12.99,23.49,high,low,10,namesilo,,,27/09/2026 01:52
+8626175b-1aee-4a2d-b3d6-d0992736aa49,investment.kim,available,5.38,18.83,high,low,10,spaceship,,,28/09/2026 22:07
 a38cb828-8389-4c91-b555-c339a9cec998,apron.kim,available,12.99,23.49,high,low,5,namesilo,,,19/09/2026 22:32
 cdfa45b6-41fd-4f9a-9f9a-6f4008a00cf5,crowley.kim,available,12.99,23.49,medium,low,7,namesilo,,,27/09/2026 01:51
 4ee54e4b-a7f7-446d-acb3-b984e7a8ccce,calender.kim,available,14.99,,high,low,8,name.com,,,
@@ -598,20 +640,25 @@ d1c86bc3-7f6e-451d-8a7c-e95f541cc00d,beaumont.kim,available,12.99,23.49,high,low
 93846a03-0fba-41e8-a0fc-c3e44bdf4b58,working.kim,available,5.98,32.98,high,low,7,namecheap,,,19/09/2026 07:09
 352e9319-45f7-430e-98e2-240575118366,stir.kim,available,12.99,23.49,high,low,4,namesilo,,,17/09/2026 09:23
 5736273f-c115-4b65-8fa2-3052967eab8b,teachers.kim,available,5.98,32.98,high,low,8,namecheap,,,18/09/2026 18:31
+202c7867-756a-471b-b95c-67a68f8e2650,producers.kim,premium,242,242,medium,low,9,namesilo,,,28/09/2026 23:09
 c7bee2d7-be48-4f26-9007-6e6d201bfda9,snowdrop.kim,available,5.98,32.98,high,low,8,namecheap,,,19/09/2026 05:27
 73aa96a1-958b-4627-98ee-34ef2f67e753,ashur.kim,available,12.99,23.49,medium,low,5,namesilo,,,20/09/2026 13:50
 e02c2ff4-8f42-4527-9159-b159d445332f,sabin.kim,available,5.98,32.98,medium,low,5,namecheap,,,18/09/2026 02:37
 bd47e9e4-8673-48b4-abc7-fb56ab1c285a,enlightenment.kim,available,14.99,,high,low,13,name.com,,,
 89326476-b314-4367-8ea6-7ec4434dfefd,genitive.kim,available,5.98,32.98,medium,low,8,namecheap,,,18/08/2026 21:46
+2b75df9e-d20a-4cec-be63-be4d504b7cbf,vow.kim,available,8.24,19.05,high,low,3,porkbun,,,28/09/2026 11:05
 fbc0e778-b781-4a4d-bbb8-0497c0bd9e54,reject.kim,available,5.98,32.98,high,low,6,namecheap,,,24/09/2026 20:15
 62b68177-b54f-4314-b84b-8b411da4da8b,witches.kim,available,12.99,23.49,medium,low,7,namesilo,,,27/09/2026 11:53
+f161f04e-e960-4de1-bf38-f1ad4a504b41,mohan.kim,available,5.38,18.83,medium,low,5,spaceship,,,28/09/2026 21:37
 77f8ec08-28bf-459f-b142-d326f6804052,paired.kim,available,5.98,32.98,high,low,6,namecheap,,,04/09/2026 23:11
 7c30f731-56ef-4faa-9fcd-c5afaacb428a,torpedo.kim,available,12.99,23.49,high,low,7,namesilo,,,28/09/2026 05:28
 a59f54bd-6f5f-45ce-aea9-bae16bc6b341,horses.kim,available,14.99,27.99,medium,low,6,name.com,,,17/09/2026 09:06
 a39c8965-70b2-46b4-ab1c-c67cbf9f0684,tattler.kim,available,5.98,32.98,medium,low,7,namecheap,,,11/09/2026 10:30
 dcbe1ce0-453f-411b-b673-ff01ec1cb59b,fifth.kim,available,5.98,32.98,high,low,5,namecheap,,,
 9494110f-56d5-4ca9-a467-5631c2fd3683,resignation.kim,available,14.99,,high,low,11,name.com,,,
+a46b6c68-ed72-4ddd-b741-ba8ad81de757,vilnius.kim,available,5.98,32.98,medium,low,7,namecheap,,,28/09/2026 18:34
 7e37ef78-8af9-446e-8de3-0ad661c05f53,hushed.kim,available,5.98,32.98,medium,low,6,namecheap,,,21/08/2026 15:54
+9fff8c87-9f69-4b34-8df8-c8b0891ff179,luftwaffe.kim,available,5.38,18.83,medium,low,9,spaceship,,,28/09/2026 09:53
 65c6c9d1-b601-4a03-9466-62ec59bb1227,usefully.kim,available,12.99,23.49,medium,low,8,namesilo,,,16/09/2026 10:28
 b786cb0d-4d28-4882-bfab-184b6ea96785,tropically.kim,available,12.99,23.49,medium,low,10,namesilo,,,16/09/2026 09:33
 daf97892-d96e-464a-9271-9c11d804ec19,abm.kim,available,12.99,23.49,high,low,3,namesilo,,,16/09/2026 16:15
@@ -631,6 +678,7 @@ bc46d3a1-0e65-455b-9cca-1936dcac9ba2,avaram.kim,available,12.99,23.49,medium,low
 ee301723-bd9e-47e3-a21e-3b05cf798a82,bonefish.kim,available,12.99,23.49,high,low,8,namesilo,,,18/09/2026 03:25
 0e45d60a-a171-44d8-bb9b-afdbf5f105b3,blate.kim,available,5.98,32.98,medium,low,5,namecheap,,,10/08/2026 13:35
 a40507e9-0055-488e-afbc-990f3f4996cd,atopy.kim,available,12.99,23.49,medium,low,5,namesilo,,,21/09/2026 00:33
+1393d0cb-dae4-4548-956d-0419491750d2,gabrielle.kim,available,12,,high,low,9,unstoppable,,,28/09/2026 21:50
 78dec595-8a4b-4fac-91a7-601bc7d31efd,uml.kim,available,14.99,,high,low,3,name.com,,,
 6d3dc8fb-0956-4b3b-9db5-06cb8456b436,herbaceous.kim,available,5.98,32.98,medium,low,10,namecheap,,,21/08/2026 06:56
 e2dfe940-f173-4ef4-9824-9845acae4794,positively.kim,available,5.98,32.98,high,low,10,namecheap,,,15/09/2026 21:03
@@ -642,6 +690,7 @@ a56c08ea-7faa-470f-9b46-02d0bfbe8003,ahmed.kim,available,12.99,23.49,high,low,5,
 6bbc099f-afc1-443b-9a4f-cca835fb020b,bail.kim,available,5.98,32.98,high,low,4,namecheap,,,21/09/2026 18:59
 0b739fb4-6f0f-4c58-b725-c53bd556daf0,purposely.kim,available,5.98,32.98,medium,low,9,namecheap,,,13/09/2026 17:36
 fbaceddf-dc4b-497f-a45e-ed0cc040b5d3,unionized.kim,available,5.98,32.98,medium,low,9,namecheap,,,03/09/2026 19:29
+fce56242-1cf2-44d8-b662-6ae2bcc6983f,venus.kim,available,8.24,19.05,high,low,5,porkbun,,,28/09/2026 14:17
 f293785c-9ecf-4826-8f7f-ed41c8613a41,bather.kim,available,12.99,23.49,medium,low,6,namesilo,,,22/09/2026 13:31
 d7d4a1ac-e2fb-46db-a6ed-a293d619ed77,euphonious.kim,available,5.98,32.98,medium,low,10,namecheap,,,17/08/2026 14:17
 92d02a31-dab2-436e-986f-a7fd24ef679f,applause.kim,available,5.98,32.98,high,low,8,namecheap,,,19/09/2026 20:55
@@ -655,7 +704,6 @@ e4f24f40-59e1-4320-a7b0-6c18d78984db,aplite.kim,available,12.99,23.49,medium,low
 ed0641d1-8e6b-4e8f-ae95-6760d50cd225,bigamy.kim,available,12.99,23.49,medium,low,6,namesilo,,,23/09/2026 15:03
 c20bb596-7a64-4b87-89f6-3ef4ad2ee0e3,articulate.kim,available,12.99,23.49,high,low,10,namesilo,,,22/09/2026 08:42
 0a1c0a09-1cd5-44ba-a82f-4938466e86a7,bergamot.kim,available,5.98,32.98,high,low,8,namecheap,,,23/09/2026 09:18
-3e9ce32d-0b65-4f4d-8eb6-9308e58631a1,service.kim,resell,,,high,medium,7,"Sav.com, LLC - 10",28/08/2025 15:15,28/08/2027 15:15,26/09/2026 08:56
 4d2dd160-4e28-486c-a861-93611f680886,expendable.kim,available,5.98,32.98,high,low,10,namecheap,,,17/08/2026 18:08
 fb2005a0-6920-4aab-a787-996bdb7b7513,appease.kim,available,5.98,32.98,high,low,7,namecheap,,,18/08/2026 22:08
 cd9c523a-c7bf-4c65-84b7-fca80cf32d23,walters.kim,available,12.99,23.49,high,low,7,namesilo,,,25/09/2026 15:56
@@ -675,13 +723,15 @@ cd6d1ece-69f8-4c1a-8e45-e0db04393635,bain.kim,available,5.38,18.83,high,low,4,sp
 c54d6aa5-6705-49f3-af91-f408193edb02,record.kim,available,5.98,32.98,high,low,6,namecheap,,,24/09/2026 19:29
 1bf55633-c9b2-466b-b898-f80c4bc0e566,whips.kim,available,5.98,32.98,medium,low,5,namecheap,,,17/09/2026 19:42
 0fca2263-9874-43fe-a2cf-e105b06ce26c,atavistic.kim,available,5.98,32.98,low,low,9,namecheap,,,07/08/2026 12:55
+98398f91-adaf-4dd0-9aee-ade80eca1648,havana.kim,available,12,,high,low,6,unstoppable,,,28/09/2026 13:38
 872e1fba-4850-4a2c-b823-a15b69129030,veronal.kim,available,12.99,23.49,medium,low,7,namesilo,,,22/09/2026 04:56
 c71bd691-8465-46cf-9a32-d6593853acb7,disneyland.kim,available,14.99,,high,low,10,name.com,,,
 dafb06ee-8cfc-4e37-87c8-0a914a2c68b8,tubular.kim,available,5.98,32.98,medium,low,7,namecheap,,,11/08/2026 17:14
 fe3b668d-32b9-46d9-a04a-b5542d50b1ba,agrology.kim,available,5.98,32.98,medium,low,8,namecheap,,,17/09/2026 19:36
 762a3ed8-701b-4fba-84aa-4f0bd58b95f0,behalf.kim,available,12.99,23.49,high,low,6,namesilo,,,23/09/2026 03:04
+c77765df-fdb1-4153-8b7d-a55a1ee95379,jets.kim,available,8.24,19.05,high,low,4,porkbun,,,28/09/2026 12:04
 66844711-26be-4cf6-ab58-8dc1e1145350,rally.kim,available,5.98,32.98,high,medium,5,namecheap,,,21/09/2026 19:55
-7eb920c5-a3a8-4020-abfd-f42c898a0d4d,boxers.kim,available,14.99,,high,low,6,name.com,,,
+7eb920c5-a3a8-4020-abfd-f42c898a0d4d,boxers.kim,available,12.99,23.49,high,low,6,namesilo,,,29/09/2026 03:50
 e3b270c8-7b44-47a1-84ca-082d43650aac,lawrencium.kim,available,5.98,32.98,medium,low,10,namecheap,,,20/09/2026 22:00
 f8fe402a-9717-4bc9-82d9-0013f5e6a3bb,busch.kim,available,12.99,23.49,medium,low,5,namesilo,,,27/09/2026 03:12
 98ad3ffc-97c8-4758-83ba-fb47c27127d5,castled.kim,available,5.98,32.98,medium,low,7,namecheap,,,11/08/2026 20:28
@@ -693,6 +743,7 @@ dcd60409-14f8-4924-b3fe-beac92005d67,phases.kim,available,12.99,23.49,medium,low
 26969d7b-e4d5-4b2a-be3f-6d6b28accfbc,reveal.kim,available,14.99,,high,low,6,name.com,,,
 9ea0931f-7c44-4105-9db0-db654a7554db,roth.kim,available,12.99,23.49,high,low,4,namesilo,,,25/09/2026 09:56
 31f8b745-7866-4529-9cf0-b24214b06001,handwoven.kim,available,5.98,32.98,medium,low,9,namecheap,,,20/08/2026 23:19
+9f153699-d711-4433-93ea-9fa94c6dff04,iec.kim,available,18.2,18.2,medium,low,3,cloudflare,,,28/09/2026 16:35
 af5cc481-e0e5-4674-b2fe-71a7135e5097,amnesia.kim,available,12.99,23.49,high,low,7,namesilo,,,18/09/2026 22:18
 8abbd583-837d-409b-b5c6-7513126eac20,daylong.kim,available,14.99,27.99,medium,low,7,name.com,,,13/08/2026 18:51
 b2fec2a8-85b6-493d-8a08-07d9fe2e0224,defeat.kim,available,12.99,23.49,medium,low,6,namesilo,,,27/09/2026 12:58
@@ -713,12 +764,15 @@ f232548b-747e-4699-96a5-747cfa17fb3a,biddy.kim,available,12.99,23.49,medium,low,
 a14dd91d-1d7d-49fa-8fb0-3b133498b643,gorgeous.kim,available,5.98,32.98,high,low,8,namecheap,,,24/09/2026 22:48
 ca9f5ba4-ee30-446c-8dd7-60bb0dd41c43,studies.kim,available,12.99,23.49,high,low,7,namesilo,,,16/09/2026 11:06
 5e4d7732-fa56-4ad3-abf2-12192b6ee4c3,colours.kim,available,14.99,,high,low,7,name.com,,,
+cb748a69-bde0-45e0-80fa-49e19b6a32fd,milano.kim,available,18.2,18.2,high,low,6,cloudflare,,,28/09/2026 14:52
 011ab579-91d1-4ac3-b909-04192f8ab5c9,winey.kim,available,5.98,32.98,medium,low,5,namecheap,,,13/09/2026 12:27
 d84ae56f-a4d0-49a9-b7db-40e6dd62c7f9,splitting.kim,available,5.98,32.98,high,low,9,namecheap,,,09/09/2026 14:01
 8d0e2f8f-c473-47f0-9e72-735cd88dc647,betsy.kim,available,12.99,23.49,high,low,5,namesilo,,,27/09/2026 07:40
 19713d8a-5d2e-4a4e-8c35-bbab08a49db7,amoeboid.kim,available,5.98,32.98,medium,low,8,namecheap,,,
 9742272a-d8fa-4d93-9bf9-376a373be3c0,hydric.kim,available,5.98,32.98,medium,low,6,namecheap,,,21/08/2026 16:23
+2e31d950-f1a0-4cd7-813d-030df45efdf8,nomination.kim,available,8.24,19.11,high,low,10,dynadot,,,28/09/2026 14:58
 083caacb-398d-4807-8820-701715b2c57a,zithromax.kim,available,12.99,23.49,medium,low,9,namesilo,,,21/09/2026 11:16
+ba6ecb1a-8a6e-4c94-a87f-d4e936a8c4d9,kettle.kim,available,8.24,19.11,medium,low,6,dynadot,,,28/09/2026 19:37
 09e4f8de-b911-4eb3-9ab5-b7ca2c5806a0,unsworn.kim,available,5.98,32.98,medium,low,7,namecheap,,,12/09/2026 20:53
 d699ae75-0a92-41e2-8b4f-92d6ef132dfd,scapular.kim,available,5.98,32.98,medium,low,8,namecheap,,,09/09/2026 22:51
 e33ddca8-8110-407a-9c30-d8fa7b46cca4,ecumenical.kim,available,5.98,32.98,medium,low,10,namecheap,,,15/08/2026 04:38
@@ -741,10 +795,11 @@ c2f5651b-1217-4af7-b710-55190b2dc114,ninefold.kim,available,5.98,32.98,medium,lo
 c89f9ffd-6a12-4665-80a5-ab54428c5c69,pellmell.kim,available,5.98,32.98,medium,low,9,namecheap,,,21/08/2026 01:07
 97d2f091-ae91-48d2-8938-b744779fe969,mosquitos.kim,available,12.99,23.49,low,low,9,namesilo,,,18/09/2026 14:26
 20697cf3-4368-49da-90a2-3621bf1aa08e,explosive.kim,available,5.98,32.98,high,low,9,namecheap,,,17/08/2026 18:33
+b5f11d9a-9952-42e9-a8e1-4fe6913cfbf0,burglary.kim,available,5.38,18.83,medium,low,8,spaceship,,,29/09/2026 00:17
 0153cc6a-20af-43db-9ec0-af175fccdf24,allograft.kim,available,12.99,23.49,medium,low,9,namesilo,,,18/09/2026 11:54
 cdccbc22-7d70-46ac-8fd4-7a34a02532e9,amanuensis.kim,available,12.99,23.49,medium,low,10,namesilo,,,18/09/2026 15:49
 649cd4dd-74b7-4d31-a4f6-01a629229c39,accursed.kim,available,5.98,32.98,medium,low,8,namecheap,,,
-6e6ebcca-53f0-48dc-8fd3-93955af813bc,attraction.kim,available,14.99,,high,low,10,name.com,,,
+6e6ebcca-53f0-48dc-8fd3-93955af813bc,attraction.kim,available,8.24,19.11,high,low,10,dynadot,,,28/09/2026 23:11
 25277014-c4d4-4848-aeda-c5f5d53ccc19,edamame.kim,available,12.99,23.49,high,low,7,namesilo,,,20/09/2026 02:22
 c38738a1-e573-450b-99ef-16da48c7a27c,sane.kim,available,5.98,32.98,high,low,4,namecheap,,,19/09/2026 15:46
 f1283a73-a711-4ca3-b6a1-a213e4d4373e,ingrained.kim,available,5.98,32.98,medium,low,9,namecheap,,,13/08/2026 22:49
@@ -755,15 +810,17 @@ d95bd509-4b9b-4c3d-8256-d078ead74eec,prompts.kim,available,14.99,27.99,high,medi
 eaf93853-76cb-4b1e-be2a-4db35573613a,bawdyhouse.kim,available,5.98,32.98,medium,low,10,namecheap,,,21/09/2026 18:21
 d04e7dd4-462e-4284-903f-2f72a9bc428f,nicole.kim,resell,,,high,low,6,"GoDaddy.com, LLC",19/01/2016 21:35,19/01/2027 21:35,26/09/2026 07:47
 6045e2f3-d0b8-4144-84db-4cc57c81dbcd,smart.kim,resell,,,high,medium,5,Dynadot Inc,13/05/2026 17:00,13/05/2027 17:00,26/09/2026 09:05
+bd790a39-67cc-443d-9ef1-3b4e46954d09,unto.kim,available,8.24,19.05,medium,low,4,porkbun,,,29/09/2026 03:05
 b8e9630e-fe38-4da3-a5c2-885e4499008b,execute.kim,available,5.38,18.83,high,low,7,spaceship,,,27/09/2026 16:26
 41a8a9c6-1221-44e3-a799-2be723a63320,tame.kim,available,5.98,32.98,high,low,4,namecheap,,,11/09/2026 07:40
-784b69e7-36ba-462d-8162-bab9a2dfed95,pilot.kim,available,14.99,,high,low,5,name.com,,,
+784b69e7-36ba-462d-8162-bab9a2dfed95,pilot.kim,resell,14.99,,high,medium,5,name.com,,,28/09/2026 19:40
 339cbbc6-59ab-4dc3-8c9b-10e29a250668,forties.kim,available,12.99,23.49,medium,low,7,namesilo,,,16/09/2026 12:06
 98c80047-5c7d-4445-8c4c-55af15415ba9,authorization.kim,available,5.98,32.98,medium,low,13,namecheap,,,28/09/2026 08:21
 6f9a7d27-4d33-4b6e-8245-0ca9056647a1,hoard.kim,available,5.98,32.98,medium,low,5,namecheap,,,12/08/2026 16:57
 f267fa6f-c51b-4e35-a454-6a1283841c3c,celibate.kim,available,5.98,32.98,high,low,8,namecheap,,,11/08/2026 23:25
 a4baa8d2-5fdf-4a6e-856b-bafe7066ae38,eat.kim,available,14.99,,high,low,3,name.com,,,
 4ba37e97-9edc-47d8-a1ac-d7bb4697c17a,gorge.kim,available,12.99,23.49,medium,low,5,namesilo,,,23/09/2026 17:20
+83d8ab2d-7b19-46c1-bc86-e04d9200c9ea,dvds.kim,premium,2070.2,2070.2,medium,low,4,spaceship,,,29/09/2026 00:04
 7598ce70-b39e-4803-aff2-ca3e8405d0ac,fluvial.kim,available,5.98,32.98,medium,low,7,namecheap,,,18/08/2026 09:35
 59dc3ad8-3a72-4331-9f8f-d95b4e0c86dd,orchis.kim,available,12.99,23.49,medium,low,6,namesilo,,,21/09/2026 23:07
 b586acf5-0bb1-4ba0-be95-80c9cf6dc0ad,happier.kim,available,12.99,23.49,high,low,7,namesilo,,,18/09/2026 06:17
@@ -772,27 +829,31 @@ b586acf5-0bb1-4ba0-be95-80c9cf6dc0ad,happier.kim,available,12.99,23.49,high,low,
 f24a3f40-d900-4733-b863-99ec602cad59,quickset.kim,available,5.98,32.98,medium,low,8,namecheap,,,09/09/2026 08:43
 539e7cad-3546-4395-94d4-94f2d27e9bd7,wilsonian.kim,available,5.98,32.98,medium,low,9,namecheap,,,13/09/2026 12:02
 66c9ce40-4dda-4a65-b8bd-d69b1cfacd49,bennet.kim,available,12.99,23.49,high,low,6,namesilo,,,23/09/2026 08:30
+cf836bdf-9d80-4630-9839-70a74ba66278,rebels.kim,available,8.24,19.11,medium,low,6,dynadot,,,28/09/2026 08:52
 8a178f80-9023-4257-8dce-5b1bb8acbe94,ludlow.kim,available,18.2,18.2,high,low,6,cloudflare,,,27/09/2026 23:11
 bb39bd48-8c54-49e0-af55-25748405e3b8,dreyfus.kim,available,5.98,32.98,medium,low,7,namecheap,,,18/09/2026 06:30
+09eb5bac-d992-46a0-8e02-118f7ad3be54,trooper.kim,available,5.38,18.83,high,low,7,spaceship,,,29/09/2026 00:23
 746dae55-0ff5-4885-9207-f89eeb600e6f,attractive.kim,available,12.99,23.49,high,low,10,namesilo,,,22/09/2026 11:44
 d4f351fb-95fd-4a62-b5da-1cbc384eedc5,rapacious.kim,available,5.98,32.98,medium,low,9,namecheap,,,15/08/2026 05:26
 0d201f59-7e5b-44ce-93e5-947a74c85c3e,atkins.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 17:28
 67fc2950-96d9-4b17-9f32-f8609f9011ab,lipitor.kim,available,5.98,32.98,high,low,7,namecheap,,,21/09/2026 00:35
 eff380e2-e978-4350-a5cc-5e75c45a93cc,conrad.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 04:23
 7b56c2e9-4848-42de-85d5-da6f887bf283,ammonite.kim,available,5.98,32.98,high,low,8,namecheap,,,18/09/2026 22:08
+7495c361-e697-4b14-98ca-82e69ca6c27c,marianne.kim,available,12,,medium,low,8,unstoppable,,,29/09/2026 03:47
 6e4b868b-a3e5-46b0-a61a-3fdafb7e9091,bata.kim,available,12.99,23.49,medium,low,4,namesilo,,,22/09/2026 13:09
 4088c9a5-3b4e-4f90-8407-6655e1836d13,unbecoming.kim,available,5.98,32.98,medium,low,10,namecheap,,,22/08/2026 02:19
 7ede581c-172f-4cb5-affd-55c78454df5e,polydactyl.kim,available,5.98,32.98,medium,low,10,namecheap,,,08/09/2026 23:13
 048f90f6-e3a9-41be-a55a-399d17ccdd53,lupine.kim,available,5.98,32.98,high,low,6,namecheap,,,24/08/2026 11:39
 962c599c-488d-4a7f-a061-db5b07cd857f,squally.kim,available,5.98,32.98,low,low,7,namecheap,,,10/09/2026 17:18
 6222bb2f-3ee9-4a94-aacd-d32a9f60bb42,naked.kim,resell,,,high,low,5,"DNSPod, Inc.",04/06/2019 03:36,04/06/2027 03:36,26/09/2026 07:42
-8de72e4a-38df-4e28-9da6-25ce13642932,bible.kim,available,14.99,,high,medium,5,name.com,,,
+8de72e4a-38df-4e28-9da6-25ce13642932,bible.kim,available,8.24,19.05,high,medium,5,porkbun,,,29/09/2026 02:20
 6c54aa75-6416-4c32-9f09-7367ddccc181,tipsy.kim,available,5.98,32.98,high,low,5,namecheap,,,11/09/2026 15:38
 71c86d99-a847-4abb-809b-36fe83938276,posterior.kim,available,5.98,32.98,medium,low,9,namecheap,,,09/08/2026 11:12
 5f52e0f7-a7bb-4ba6-9233-ddc05a7d6c24,aol.kim,available,,,high,high,3,,,,
 4b6fe633-df52-4705-8a16-b95c9de4c621,roundabout.kim,available,5.98,32.98,medium,low,11,namecheap,,,12/08/2026 08:20
 3d7b88aa-484a-4f0c-9f18-5a3f39215f2c,altissimo.kim,available,5.98,32.98,medium,low,9,namecheap,,,
 896c6b83-675e-43cb-a98b-f9397fe7a3da,quietly.kim,available,5.98,32.98,high,low,7,namecheap,,,09/09/2026 08:49
+b72779d2-ef11-4b36-9608-094afa63dc5a,helena.kim,available,12.99,23.49,high,low,6,namesilo,,,28/09/2026 13:38
 a338d932-1255-45cc-9cc1-9a09342bf408,badaga.kim,available,12.99,23.49,medium,low,6,namesilo,,,21/09/2026 16:58
 f120d44e-c62b-4021-bee8-e11f8bf1b870,ane.kim,available,12.99,23.49,high,low,3,namesilo,,,24/09/2026 08:21
 7c9361d4-1d7e-4293-8e85-eb19140bbecc,prickly.kim,available,5.98,32.98,medium,low,7,namecheap,,,08/08/2026 17:34
@@ -817,12 +878,12 @@ e1e30369-4819-41ad-880f-d376f3d031b2,hydroponic.kim,available,5.98,32.98,medium,
 9d39466a-339d-43a8-8749-9b7dfd07a3c5,unhealthy.kim,available,5.98,32.98,medium,low,9,namecheap,,,22/08/2026 06:24
 ea06c537-cd56-4e7d-ab97-54d08d33e693,singer.kim,premium,1300,1300,high,low,6,namecheap,,,25/09/2026 23:13
 302290b0-442d-49dd-b09b-b4126eda9ded,nightstick.kim,available,12.99,23.49,medium,low,10,namesilo,,,23/09/2026 16:38
-22c710d5-961e-4782-b520-3231156b1b37,affluence.kim,available,14.99,,high,low,9,name.com,,,
+22c710d5-961e-4782-b520-3231156b1b37,affluence.kim,available,8.24,19.05,high,low,9,porkbun,,,28/09/2026 19:21
 34599432-f54f-42c8-95cc-dd03521f4921,unsubtle.kim,available,5.98,32.98,medium,low,8,namecheap,,,12/09/2026 20:46
 d35276ab-ec9a-4c31-8b7a-7708dfda753f,undefined.kim,available,5.98,32.98,high,low,9,namecheap,,,12/09/2026 07:13
-7a58d559-0b8c-4dfd-b212-a09f43a1de5b,alabama.kim,available,14.99,,high,low,7,name.com,,,
 d4c3403d-2c6e-49c3-8206-47be600cba1c,dissembler.kim,available,5.98,32.98,medium,low,10,namecheap,,,08/09/2026 19:10
 b0c8df74-9848-412f-92ba-be7f58dac65b,fluky.kim,available,5.98,32.98,medium,low,5,namecheap,,,18/08/2026 09:19
+18d89e6b-d9d0-4814-a351-ebd91371105f,spies.kim,available,12,,medium,low,5,unstoppable,,,28/09/2026 12:49
 26a88603-406a-477f-b649-293843f4cb0c,agee.kim,available,12.99,23.49,medium,low,4,namesilo,,,17/09/2026 16:52
 f58d9412-08ed-4435-a1f5-c092b33afd7a,lamb.kim,available,5.98,32.98,high,low,4,namecheap,,,27/09/2026 03:31
 6ed0894b-8f49-46f7-9c9a-f6ebdf256f4f,losing.kim,available,12.99,23.49,high,low,6,namesilo,,,25/09/2026 11:49
@@ -849,6 +910,8 @@ e3600704-9daf-4ef9-9ad8-fa6fcbbf4499,windy.kim,available,12.99,23.49,high,low,5,
 5ea6b3d1-464b-4ee5-b384-94addb616249,frivolous.kim,available,5.98,32.98,medium,low,9,namecheap,,,18/08/2026 16:04
 cc05db66-c8e0-407f-a80e-dd3a20188b70,perfected.kim,available,5.98,32.98,high,low,9,namecheap,,,27/09/2026 03:35
 9bcb60d9-be60-4471-8553-6b83e24cf6ec,flimsy.kim,available,5.98,32.98,medium,low,6,namecheap,,,18/08/2026 08:15
+fb261124-a232-4a1d-be5a-d2326d028a73,fannie.kim,available,12,,medium,low,6,unstoppable,,,28/09/2026 12:06
+98014153-1a10-4d75-9a16-0978155bbde3,cavalry.kim,available,5.38,18.83,high,low,7,spaceship,,,28/09/2026 09:16
 5877eb9a-ea2c-40ee-91c8-668848c18c1d,procure.kim,available,5.98,32.98,high,low,7,namecheap,,,10/09/2026 01:32
 79401276-93d0-41e8-b6a8-1a273e34cb85,tactual.kim,available,5.98,32.98,medium,low,7,namecheap,,,21/08/2026 00:04
 36771305-01fa-4bb9-bdc5-130cc92fac3f,butchery.kim,available,12.99,23.49,medium,low,8,namesilo,,,16/09/2026 14:16
@@ -858,7 +921,7 @@ c5654004-de1e-4604-aeb7-a0a412c5c843,sensorial.kim,available,5.98,32.98,medium,l
 a6779e02-0dd5-493b-883e-a3a6a1db543c,anoxia.kim,available,12.99,23.49,medium,low,6,namesilo,,,19/09/2026 11:58
 7b0cd35d-569f-4d74-ae16-d699c0c60cd1,techno.kim,available,14.99,,high,low,6,name.com,,,
 1c24db7a-80a0-40cd-9d85-3b9994c2073a,tearful.kim,available,5.98,32.98,medium,low,7,namecheap,,,14/08/2026 15:35
-cd353198-5b8f-4ad9-a186-0c46ffe5c008,bump.kim,available,14.99,,high,low,4,name.com,,,
+cd353198-5b8f-4ad9-a186-0c46ffe5c008,bump.kim,available,5.38,18.83,high,low,4,spaceship,,,29/09/2026 05:15
 37e507bd-9498-4356-904a-bc3236ab5874,curium.kim,available,12.99,23.49,medium,low,6,namesilo,,,21/09/2026 00:13
 4319108f-8ad4-436f-83d3-825e00c69caf,downward.kim,available,5.98,32.98,high,low,8,namecheap,,,14/08/2026 17:18
 58a7ab42-f6b5-4d7f-b21b-25f9d1931867,blastocyst.kim,available,12.99,23.49,medium,low,10,namesilo,,,24/09/2026 04:28
@@ -875,7 +938,7 @@ b79aa777-869c-468b-9a5b-4739be3ec5f7,maximising.kim,available,5.98,32.98,medium,
 d400b55e-fc75-4735-9fbd-8524d119655f,tongan.kim,available,5.98,32.98,high,low,6,namecheap,,,11/09/2026 17:06
 44fad068-94f8-4e94-b99f-551bd0dc4624,autolytic.kim,available,5.98,32.98,medium,low,9,namecheap,,,07/08/2026 20:42
 aca6ac49-7a0f-4a5c-9643-276c15c53fdc,telephone.kim,available,12.99,23.49,high,low,9,namesilo,,,26/09/2026 00:02
-b13841ba-f8cb-4927-8072-df682b39ada1,tub.kim,available,14.99,,high,low,3,name.com,,,
+b13841ba-f8cb-4927-8072-df682b39ada1,tub.kim,available,5.98,32.98,high,low,3,namecheap,,,29/09/2026 01:33
 69236eb3-5508-4425-8e1f-4e3befce2727,venice.kim,available,8.24,19.05,high,low,6,porkbun,,,28/09/2026 03:15
 8dcb06d7-b5e2-4507-89ee-1994410520a9,silverbush.kim,available,12.99,23.49,medium,low,10,namesilo,,,19/09/2026 14:04
 36b81142-9485-473d-9044-22d8962a5bf2,behaviours.kim,available,5.98,32.98,medium,low,10,namecheap,,,20/09/2026 22:06
@@ -885,7 +948,7 @@ b13841ba-f8cb-4927-8072-df682b39ada1,tub.kim,available,14.99,,high,low,3,name.co
 d3e34ebb-ceb2-47c1-a5a9-e4d173d18cdb,reasoned.kim,available,5.98,32.98,high,low,8,namecheap,,,09/09/2026 11:08
 63a9ac42-4253-4aad-ba40-18bbd0c58775,exclude.kim,available,12.99,23.49,high,low,7,namesilo,,,22/09/2026 03:43
 e690694c-9c3e-4082-ad1f-754ad94cf835,agential.kim,available,5.98,32.98,medium,low,8,namecheap,,,
-7a808f80-e8b5-4850-b0a9-d52fa34dd2f7,wound.kim,available,14.99,,high,low,5,name.com,,,
+7a808f80-e8b5-4850-b0a9-d52fa34dd2f7,wound.kim,available,12.99,23.49,high,low,5,namesilo,,,28/09/2026 11:06
 a171b82b-36af-4c1c-bdc7-2971ee7e7504,parky.kim,available,5.98,32.98,medium,low,5,namecheap,,,08/09/2026 01:38
 d3e24ac9-b001-4141-8eb8-20b19d08d61b,strips.kim,available,5.98,32.98,medium,low,6,namecheap,,,20/09/2026 02:09
 a2701b5d-3f33-4438-9354-738a172cfe5f,crested.kim,available,5.98,32.98,high,low,7,namecheap,,,13/08/2026 06:20
@@ -897,10 +960,13 @@ c42e6884-7126-4049-ba7d-69b48ee8d53c,heinrich.kim,available,5.98,32.98,high,low,
 9e3f700c-1c23-4261-b078-549dc8b0587f,poems.kim,available,12.99,23.49,medium,low,5,namesilo,,,18/09/2026 16:34
 4f838a95-47bd-4204-ae9b-5b44dc4c9e31,beechnut.kim,available,12.99,23.49,medium,low,8,namesilo,,,23/09/2026 00:13
 ce46ba4c-1838-4f0e-9329-e46699f70620,scandent.kim,available,5.98,32.98,medium,low,8,namecheap,,,09/09/2026 22:32
+0efbe839-8bb4-45c0-b63d-ab0a0aecf33c,imprisonment.kim,available,12.99,23.49,medium,low,12,namesilo,,,28/09/2026 22:40
 974bd032-cc67-460c-ac88-b3690b2c390f,engulf.kim,available,5.98,32.98,medium,low,6,namecheap,,,10/09/2026 19:51
 c02ef845-285e-4074-adad-e281411432ee,olympics.kim,available,14.99,,high,low,8,name.com,,,
 a352bbdf-9ca0-485a-9d3f-717e9f1e6633,aeration.kim,available,5.98,32.98,medium,low,8,namecheap,,,17/09/2026 12:46
 47af81b0-01b2-4668-9773-09b202f5ee45,indate.kim,available,14.99,,medium,low,7,name.com,,,
+4ad24827-a507-43e8-992a-4d15d967b2fc,refrain.kim,available,5.38,18.83,high,low,7,spaceship,,,28/09/2026 20:16
+448cfecb-eb35-4b38-853d-d8ef2ef75acf,indicated.kim,available,12.99,23.49,medium,low,9,namesilo,,,28/09/2026 12:56
 b85a2407-4aee-41be-b655-466aa8a24de4,unmediated.kim,available,5.98,32.98,medium,low,10,namecheap,,,12/09/2026 15:32
 3256e34d-e755-453c-b8aa-042b6e319fca,smothered.kim,available,5.98,32.98,medium,low,9,namecheap,,,10/09/2026 12:11
 d8450f3c-85d3-45c2-8551-f958f1d1739d,untaxed.kim,available,5.98,32.98,medium,low,7,namecheap,,,11/09/2026 09:28
@@ -922,80 +988,14 @@ d44d4ffc-17bc-4446-98a2-bcbbc1ba3b44,marker.kim,available,5.38,18.83,high,low,6,
 1941f7c7-4355-4304-bf30-20e52517bc70,freeborn.kim,available,5.98,32.98,medium,low,8,namecheap,,,18/08/2026 14:53
 f9dd3a99-1376-41a5-8b69-960ae64d5c1a,simplicity.kim,available,14.99,,high,low,10,name.com,,,
 4f3454a9-2741-474c-9297-444cfd0e9c2d,wavy.kim,available,5.98,32.98,high,low,4,namecheap,,,13/08/2026 06:54
+1113a60f-6a71-4086-9ffc-aa2611a200f5,typewriter.kim,available,12,,high,low,10,unstoppable,,,29/09/2026 02:27
 5c598b34-d2b5-4b1d-b3bd-fae8fa1774a9,hemic.kim,available,5.98,32.98,low,low,5,namecheap,,,20/08/2026 21:49
 3b00cf64-492b-4765-bbc9-6a952fa78023,rattle.kim,available,12.99,23.49,high,low,6,namesilo,,,19/09/2026 15:18
-3e916d98-e4cf-4cc0-a397-2fa368a4eb03,beneath.kim,available,14.99,,medium,low,7,name.com,,,
+3e916d98-e4cf-4cc0-a397-2fa368a4eb03,beneath.kim,available,5.38,18.83,medium,low,7,spaceship,,,28/09/2026 12:25
 4ab0e62a-f5e3-4412-b193-03229354e5b3,bygone.kim,available,5.98,32.98,medium,low,6,namecheap,,,11/08/2026 12:06
 b298b50c-a55b-4e58-a6da-5d880f1761d4,eastbound.kim,available,5.98,32.98,high,low,9,namecheap,,,14/08/2026 22:50
+f1761b88-efa5-46c2-bfe1-fba5d0822951,fuchs.kim,available,12,,medium,low,5,unstoppable,,,28/09/2026 14:00
 f331ae36-1e1b-42ec-aa68-7e0687b6c0f0,automotive.kim,available,12.99,23.49,high,low,10,namesilo,,,22/09/2026 14:07
 4076f8e5-12a1-42b5-8ce4-3e065d5d76a8,formless.kim,available,5.98,32.98,medium,low,8,namecheap,,,
 49786db1-d3dc-48e2-9580-5a815360d504,spectra.kim,available,5.98,32.98,high,low,7,namecheap,,,18/09/2026 20:18
 350c01d8-00e2-4f80-944f-5c9c07e4f00e,apposition.kim,available,5.98,32.98,medium,low,10,namecheap,,,19/09/2026 22:03
-84a8d58f-3d6e-4ebc-ae18-9dba53a4c6cf,inertial.kim,available,5.98,32.98,medium,low,8,namecheap,,,22/08/2026 03:59
-7a4f9589-14bb-4864-8126-a3d7a50fc619,handled.kim,available,5.98,32.98,high,low,7,namecheap,,,20/08/2026 23:28
-bfeb7bcf-abcf-4d6b-8379-0d3a1f019e92,director.kim,available,14.99,,high,low,8,name.com,,,
-efbde82d-8928-417d-8cda-9d292930999b,recommending.kim,available,12,32.98,medium,low,12,unstoppable,,,28/09/2026 03:25
-0435d1e3-dbc9-4a86-8a3c-403a64ecbcc3,millionth.kim,available,5.98,32.98,medium,low,9,namecheap,,,24/08/2026 23:25
-b1f0c06c-e39c-4474-b62b-098bd230133a,catcher.kim,available,12.99,23.49,high,low,7,namesilo,,,21/09/2026 16:05
-05acf08d-b726-4d91-9ea5-7b0cfe7f29c2,launched.kim,available,12.99,23.49,high,low,8,namesilo,,,18/09/2026 13:03
-8fc3bbb5-8fbe-4358-8eea-4c3082c91101,abalone.kim,available,12.99,23.49,high,low,7,namesilo,,,16/09/2026 13:49
-bbee92cb-eb55-4dbc-b58c-90700647c024,lovingness.kim,available,5.98,32.98,high,low,10,namecheap,,,11/08/2026 19:18
-db6f3d26-f976-4a6c-a71c-8d111de54b38,haunted.kim,available,5.98,32.98,high,low,7,namecheap,,,21/08/2026 01:31
-251f7ed3-b13c-4b79-8868-ccbe559b472d,radical.kim,available,5.98,32.98,high,low,7,namecheap,,,08/08/2026 21:21
-043a1c9c-cb42-4090-8e1d-622d2bac0980,evaluation.kim,available,8.24,19.11,high,low,10,dynadot,,,28/09/2026 02:31
-94a3353d-2016-440e-be7d-e033c2d8dd8d,homophobic.kim,available,5.98,32.98,medium,low,10,namecheap,,,21/08/2026 13:04
-b3dae6ac-49a6-4aa8-bb59-dc203a24da1b,sponsor.kim,available,5.98,32.98,high,low,7,namecheap,,,18/08/2026 15:15
-5fd774a8-f6cf-4cad-8617-7a96474052c8,rail.kim,available,14.99,,high,low,4,name.com,,,
-ce324bea-0323-428f-9e0a-535c89f901d8,agha.kim,available,12.99,23.49,medium,low,4,namesilo,,,17/09/2026 15:59
-9443f138-d507-4ec4-be8d-4ef417cf2041,hearsay.kim,available,5.98,32.98,medium,low,7,namecheap,,,21/08/2026 02:04
-d15b630a-bd72-49e9-b3a2-915f5ec16370,garbanzo.kim,available,12.99,23.49,medium,low,8,namesilo,,,24/09/2026 14:31
-b43f75eb-3c33-4320-accc-9ed7e0e09f34,pangolin.kim,available,12.99,23.49,medium,low,8,namesilo,,,19/09/2026 12:39
-1cb46915-d211-4a51-ac34-cb8189c0d053,rustle.kim,available,5.98,32.98,high,low,6,namecheap,,,13/09/2026 11:37
-bc369305-1343-4702-9d98-767c6f794b68,parched.kim,available,5.98,32.98,medium,low,7,namecheap,,,
-8677c674-ca07-4d99-8ae7-4e6aadd469e2,aligning.kim,available,5.98,32.98,medium,low,8,namecheap,,,
-bc18cc06-912d-45ee-a3b7-fa644457285b,nonpublic.kim,available,5.98,32.98,medium,low,9,namecheap,,,03/09/2026 20:20
-59577430-adb0-4f88-94c7-74fa715c94ab,dempsey.kim,available,12.99,23.49,high,low,7,namesilo,,,28/09/2026 05:31
-7385877d-812e-4959-85f6-ab56d09e11ed,grassless.kim,available,5.98,32.98,medium,low,9,namecheap,,,20/08/2026 18:13
-75fb2b8b-59db-41a2-ac9e-f092cf060cca,full.kim,available,12.99,23.49,high,low,4,namesilo,,,24/09/2026 14:07
-9fdf1851-7609-4e08-9cd0-19d4c94aa22c,otc.kim,available,5.98,32.98,high,low,3,namecheap,,,04/09/2026 18:34
-6af0a0ee-eed6-4ebe-9167-2c559abedee0,cordate.kim,available,5.98,32.98,high,low,7,namecheap,,,13/08/2026 00:50
-3a93be5a-d9d1-4283-9d85-8a4d6e3fe66b,aphorism.kim,available,12.99,23.49,medium,low,8,namesilo,,,19/09/2026 17:09
-4068b93d-b3cb-4bec-964c-d852516f40c2,intro.kim,available,14.99,,high,low,5,name.com,,,
-df88497c-5007-4073-a1ef-dbfc5b02aaba,condense.kim,available,14.99,,high,low,8,name.com,,,
-3de4f51d-7b30-4b01-a5d3-9e6441614193,melodious.kim,available,5.98,32.98,high,low,9,namecheap,,,24/08/2026 19:38
-d9987111-0710-43b6-936c-b89bf3fe487f,pebbly.kim,available,5.98,32.98,medium,low,6,namecheap,,,20/08/2026 18:47
-d820de90-3b1c-4dad-ac93-99c7ed1192fc,felicitous.kim,available,5.98,32.98,medium,low,10,namecheap,,,18/08/2026 00:51
-a5ca7bb7-42ca-4610-8ddb-df59547aad75,puppet.kim,available,8.24,19.11,high,low,6,dynadot,,,28/09/2026 02:20
-3205abba-8eae-42b2-9077-2aa7f27b4459,peep.kim,available,12.99,23.49,high,low,4,namesilo,,,24/09/2026 14:07
-d37440da-f0e3-4994-bed8-30de40fd6150,beeper.kim,available,12.99,23.49,high,low,6,namesilo,,,23/09/2026 01:31
-b8658f09-2598-46c8-9a07-baf33675a0d4,socially.kim,available,5.98,32.98,high,low,8,namecheap,,,16/09/2026 03:57
-23609d64-de34-4805-bebb-81a9fa9baea2,following.kim,available,5.98,32.98,high,low,9,namecheap,,,18/08/2026 10:22
-38ed2a6a-a8b9-418a-8e74-dea6fc2f3cb9,autotelic.kim,available,5.98,32.98,high,low,9,namecheap,,,07/08/2026 21:08
-bd2c8452-405e-4e41-97db-08725cb16ffc,miserly.kim,available,5.98,32.98,medium,low,7,namecheap,,,24/08/2026 23:45
-0527cfd5-da05-4f8a-870f-6108e8b47882,engine.kim,available,8.24,19.11,high,low,6,dynadot,,,28/09/2026 03:55
-35c3f215-879b-45d9-a953-c319c474716e,hayseed.kim,available,5.98,32.98,medium,low,7,namecheap,,,21/08/2026 08:05
-b0cb3287-2142-4882-8bc5-b8722f6559bf,grouping.kim,available,14.99,,high,low,8,name.com,,,
-739381b6-3106-4ed4-993d-f52157c7d76e,antido.kim,available,12.99,23.49,medium,low,6,namesilo,,,19/09/2026 14:17
-56e3871d-004a-4aa2-8c3e-a54d98cc84d4,bigram.kim,available,12.99,23.49,medium,low,6,namesilo,,,23/09/2026 15:24
-a3b4c6a3-de7a-4571-9024-b7aca89bb73a,droopy.kim,available,5.98,32.98,medium,low,6,namecheap,,,14/08/2026 19:43
-dc21b554-4849-4120-8ff4-746a705b2039,deliberate.kim,available,5.98,32.98,high,low,10,namecheap,,,11/08/2026 13:56
-1d1034bc-0ba1-47fe-a2ca-cf0b582e6cc3,tomorrow.kim,available,14.99,,high,medium,8,name.com,,,
-ef9c6d59-de6a-4406-92f5-c490f72edde8,labored.kim,available,5.98,32.98,medium,low,7,namecheap,,,22/08/2026 17:34
-d60b5f17-ea0b-44d2-a5e6-2f377e436da0,bismuth.kim,available,12.99,23.49,high,low,7,namesilo,,,20/09/2026 23:53
-64cf4151-c9ac-48d1-b96e-446446d8c3a9,banteng.kim,available,12.99,23.49,medium,low,7,namesilo,,,22/09/2026 03:14
-9bb1a2e2-aec0-494c-80ed-7ec91ce78838,adamance.kim,available,5.98,32.98,medium,low,8,namecheap,,,17/09/2026 06:15
-6e1a58e1-6830-446b-ad62-1773a92199dd,holy.kim,available,5.98,32.98,high,low,4,namecheap,,,21/08/2026 10:43
-9a3c9742-43ee-4111-b892-66813a7a2580,sentence.kim,available,14.99,,high,low,8,name.com,,,
-1623b8bf-b559-4b90-aea8-f35609a1bb5a,firsthand.kim,available,5.98,32.98,high,low,9,namecheap,,,18/08/2026 05:27
-094b66af-2a31-4488-95f1-79d8a6c2b662,unresolved.kim,available,5.98,32.98,medium,low,10,namecheap,,,14/08/2026 12:57
-1f341487-b6ce-4af5-9adc-e6a08d36cd00,ward.kim,available,12.99,23.49,high,low,4,namesilo,,,16/09/2026 13:33
-3e98dfda-0066-48f1-abb3-3172afb1ba6e,noyes.kim,available,12.99,23.49,medium,low,5,namesilo,,,18/09/2026 06:42
-cb247c33-561b-4be5-9347-9201531538aa,transeunt.kim,available,5.98,32.98,medium,low,9,namecheap,,,11/09/2026 18:53
-079495cb-90ca-493e-a9c3-4eb2d59caf3a,brockhouse.kim,available,12.99,23.49,medium,low,10,namesilo,,,23/09/2026 10:18
-eb69d27b-a0b6-485d-b1ca-4070b0d7ad66,dromedary.kim,available,12.99,23.49,medium,low,9,namesilo,,,19/09/2026 23:32
-ab20b3e2-1442-438b-b1e0-e584cb0389f2,souls.kim,available,14.99,,high,low,5,name.com,,,
-84402e16-4cdb-4392-9bc5-c0dcf79c3e88,backstay.kim,available,12.99,23.49,medium,low,8,namesilo,,,21/09/2026 16:03
-b40974da-bd28-48cf-9d22-3ff025086854,advisory.kim,available,5.98,32.98,high,low,8,namecheap,,,
-f494a380-b30a-4f14-aa30-a0e7614aa0db,amniote.kim,available,12.99,23.49,medium,low,7,namesilo,,,18/09/2026 22:28
-9b83406c-223f-48b1-8fde-ae39a6be2f18,theft.kim,available,5.98,32.98,high,low,5,namecheap,,,08/09/2026 07:55
-75d41b2f-722b-40b1-9759-7ad2faf4379f,stupendous.kim,available,5.98,32.98,high,low,10,namecheap,,,12/08/2026 18:00
